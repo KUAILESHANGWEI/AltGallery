@@ -49,8 +49,11 @@ jobs:
           python3 tools/make_proxy.py all-apps.json all-apps-proxy.json
           python3 tools/build_site.py
           cp archive-manifest.json SHA256SUMS _site/
-          cp -R assets apps _site/
-          (cd _site && zip -qr ../AltGallery-catalog.zip .)
+          for source in apps/*/apps*.json; do
+            mkdir -p "_site/$(dirname "$source")"
+            cp "$source" "_site/$source"
+          done
+          (cd _site && zip -qr "$RUNNER_TEMP/AltGallery-catalog.zip" .)
       - name: Commit generated catalog
         run: |
           git add -A
@@ -65,4 +68,4 @@ jobs:
         shell: bash
         run: |
           tag="catalog-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
-          gh release create "$tag" AltGallery-catalog.zip SHA256SUMS archive-manifest.json all-apps.json -R "$GITHUB_REPOSITORY" --target main --title "$tag" --notes 'Catalog snapshot and verified dependency archive. Public source and IPA archive.' --latest
+          gh release create "$tag" "$RUNNER_TEMP/AltGallery-catalog.zip" SHA256SUMS archive-manifest.json all-apps.json -R "$GITHUB_REPOSITORY" --target main --title "$tag" --notes 'Catalog snapshot and verified dependency archive. Public source and IPA archive.' --latest
