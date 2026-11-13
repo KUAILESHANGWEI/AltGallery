@@ -39,7 +39,7 @@ apps/<AppName>/
 ├── news.toml        # news image config (name, tagline, optional colors)
 ├── icon.png         # app icon
 ├── images/          # screenshots + news.png promo image
-│   ├── home.png     # screenshots (referenced from [app] screenshots)
+│   ├── home.png     # screenshot, listed in [app] screenshots (extension kept as-is)
 │   └── news.png     # generated promo image (referenced from [news] image_url)
 └── apps.json        # generated AltStore source (gitignored), do not hand-edit
 ```
@@ -108,35 +108,54 @@ immediately, run the `Update all-apps.json` workflow manually
 
 ## GitHub Pages Site
 
-The public catalog at https://KUAILESHANGWEI.github.io/AltGallery/ is a static page
+The public catalog at https://github.com/KUAILESHANGWEI/AltGallery/releases/latest is a static page
 built from the generated sources:
 
 - `site/index.html`, `site/style.css`, `site/app.js` — the page. It fetches
-  `all-apps.json` (served beside it) at runtime and loads icons, screenshots
-  and news images from the URLs in that file. The Direct/Mirror switch
-  rewrites GitHub URLs through gh-proxy.com and subscribes to the prepared
+  `all-apps.json` (served beside it) at runtime and renders every image —
+  logos, icons, screenshots, news images — from a copy under `media/`, so the
+  site hosts its own artwork and only links (release pages, ipa downloads,
+  AltStore sources) point at GitHub. The Direct/Mirror switch rewrites those
+  links through gh-proxy.com and subscribes to the prepared
   `apps/<App>/apps-proxy.json` sources.
 - `tools/build_site.py` — validates `all-apps-proxy.json` against
   `all-apps.json` (the proxy prefix is derived from the mirror), checks that
-  every per-app source exists, stages the split site plus both JSON files and
-  a generated `config.json` in `_site/`, and adds content hashes to the
-  CSS/JS references. Stdlib only.
+  every per-app source exists, copies every displayed image from the working
+  tree to `_site/media/` with its repository path unchanged, writes a
+  generated `config.json` (the raw URL prefixes and `mediaBase`, which the
+  page uses to map a raw URL to its local copy), and stages the split site
+  plus both JSON files. Content hashes are added to the CSS/JS references
+  only. Stdlib only.
 - `.github/workflows/pages.yml` — builds and deploys only when the update
   workflow finishes (an update run triggered by the push, including the
   bot's own commits, which never trigger `push` workflows), plus manual
   dispatch, so one push creates a single Pages deployment record. The
   repository's Pages source must be set to "GitHub Actions".
+- `.github/workflows/pages-cloudflare.yml` — the same build, deployed to a
+  Cloudflare Pages project (name and production branch in its `env`) with
+  `cloudflare/wrangler-action@v4`, on the same triggers. It needs the
+  `CLOUDFLARE_API_TOKEN` (Cloudflare Pages: Edit) and `CLOUDFLARE_ACCOUNT_ID`
+  repository secrets, and the Pages project must be a Direct Upload one — a
+  Git-connected project is built by Cloudflare itself instead, and cannot be
+  deployed from here.
 
 The build also writes `_site/preview.html`, with CSS, JS and the catalog
-inlined, so it can be opened directly from disk:
+inlined; it draws images from `_site/media/`, so it opens straight from disk
+as long as it stays beside that directory:
 
 ```bash
 python3 tools/build_site.py
-open _site/preview.html          # single-file local preview
+open _site/preview.html          # local preview, no server
 python3 -m http.server -d _site  # or serve the real split page
 ```
 
-`_site/` is gitignored and never committed.
+`_site/` is gitignored and never committed. It is host-agnostic — the page
+fetches `all-apps.json` and `config.json` from its own directory and draws
+every image from `media/` beside it — so the identical build serves both the
+GitHub Pages and the Cloudflare Pages deployment. Serving its own images is
+what lets a CDN in front of the site (Cloudflare Polish, for one) cache and
+convert them; `media/` mirrors the repository layout, so a changed image is
+the same URL with revalidation.
 
 ## Generating News Images
 
@@ -227,6 +246,41 @@ PNGs/JPEGs are copied as-is.
 in `Assets.car`, unreadable here (LZFSE `bvx2`, no PNG data inside). The tool
 warns below 512px: treat that as a last resort, and prefer the project's own
 artwork wherever it exists.
+
+## Screenshots
+
+Screenshots live in `apps/<AppName>/images/` and are listed by URL in
+`[app] screenshots` in `config.toml`.
+
+When the user supplies screenshots by hand (attached images, a folder, an
+unpacked zip), **use them exactly as given**: copy them into
+`apps/<AppName>/images/` with their original filenames and formats (`.png`,
+`.jpg`/`.jpeg`, …), and point each `screenshots` entry at the real file. Never
+rename them to `home.png`/`detail.png` and never re-encode or convert the
+format — AltStore loads whatever URL it is given, and the repo already ships
+plenty of `.jpg`/`.jpeg` shots. The user's set is the set; don't keep hunting
+the repo for alternatives.
+
+`news.png` is the one file in that folder that is generated — leave it to
+`tools/render_news.py` (see [Generating News
+Images](#generating-news-images)).
+
+## README Entries
+
+Every app appears in both `README.md` and `README_CN.md` under **Available
+Apps**, in the same order. The heading (icon + name) is identical in both
+files; only the one-line description may differ.
+
+**The description follows the language of the app's own README, not the
+language of the AltGallery README it is written into.** An app whose upstream
+README is primarily Chinese gets a Chinese one-line description in *both*
+`README.md` and `README_CN.md`; an English upstream README gets an English
+one in both. Never invent an English blurb for a Chinese-only project (or the
+reverse). `config.toml` fields (`subtitle`, `description`) follow the same
+rule — do not force them into English.
+
+⚠️ Use `align="top"` on the icon — `align="center"` renders ~7px low on
+GitHub.
 
 ## Adding a New App
 
