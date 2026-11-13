@@ -8,7 +8,7 @@ repo = "pookjw/HermesEnabler"
 name = "HermesEnabler"
 subtitle = "HermesEnabler AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for HermesEnabler"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/icon.png"
 website = "https://github.com/pookjw/HermesEnabler"
 tint_color = "#70C0F0"
 
@@ -20,9 +20,9 @@ bundle_identifier = "com.example.HermesEnabler"
 developer_name = "pookjw"
 subtitle = "Enable Hermès Watch Faces on any Apple Watch"
 description = "Enable Hermès and Ultra watch faces on any Apple Watch, along with display, sensor, and Siri tweaks backed by MobileGestalt changes and automatic backups. Requires watchOS 27.0 through 27.3 beta 1."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/watch.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/images/watch.jpg",
 ]
 tint_color = "#70C0F0"
 min_os_version = "17.0"
@@ -39,7 +39,7 @@ version_source = "ipa"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/images/news.png"
 
 [output]
 path = "apps.json"

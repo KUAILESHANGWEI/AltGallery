@@ -8,7 +8,7 @@ repo = "Manic-EMU/ManicEMU"
 name = "ManicEMU"
 subtitle = "ManicEMU AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for ManicEMU"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/icon.png"
 website = "https://github.com/Manic-EMU/ManicEMU"
 tint_color = "#F02040"
 
@@ -18,11 +18,11 @@ bundle_identifier = "com.aoshuang.manicemu"
 developer_name = "Manic EMU Development Team"
 subtitle = "All-in-one retro game emulator for iOS"
 description = "All-in-one retro game emulator for iOS, bringing console, arcade, computer, and mobile Java systems into one clean app with saves, cheats, custom skins, RetroAchievements, and more."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/library.jpg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/landscape.jpg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/achievements.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/library.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/landscape.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/achievements.jpg",
 ]
 tint_color = "#F02040"
 min_os_version = "15.0"
@@ -38,7 +38,7 @@ asset_pattern = "SideloadJIT\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/news.png"
 
 [output]
 path = "apps.json"

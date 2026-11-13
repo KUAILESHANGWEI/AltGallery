@@ -8,7 +8,7 @@ repo = "LightNovelShelf/Flutter"
 name = "LightNovelShelf"
 subtitle = "LightNovelShelf AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for LightNovelShelf"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/icon.png"
 website = "https://github.com/LightNovelShelf/Flutter"
 tint_color = "#4E4592"
 
@@ -18,10 +18,10 @@ bundle_identifier = "app.lightnovel.shelf"
 developer_name = "LightNovelShelf"
 subtitle = "轻书架官方 Flutter 客户端"
 description = "轻书架官方 Flutter 客户端，面向 iOS、iPadOS 与 Android，支持书架管理、在线阅读、翻页动画、双页阅读与自动更新。"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/home.jpeg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/community.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/home.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/community.jpeg",
 ]
 tint_color = "#4E4592"
 min_os_version = "15.0"
@@ -37,7 +37,7 @@ asset_pattern = "app-ios-unsigned\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/news.png"
 
 [output]
 path = "apps.json"

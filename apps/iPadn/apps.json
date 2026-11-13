@@ -2,7 +2,7 @@
   "name": "iPadn",
   "subtitle": "iPadn AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for iPadn",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/icon.png",
   "website": "https://github.com/mengangs/ipadn",
   "tintColor": "#111111",
   "apps": [
@@ -12,12 +12,12 @@
       "developerName": "mengangs",
       "subtitle": "Download older and removed App Store apps",
       "localizedDescription": "Search, download and install the apps you own on iPhone and iPad — older versions, removed apps, regional price comparison and native install. Works with iPhone, iPad, Apple TV and Mac apps, in 11 languages.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/search.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/detail.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/versions.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/prices.png"
       ],
       "tintColor": "#111111",
       "versions": [
@@ -40,7 +40,7 @@
       "caption": "iPadn 2.0.0 is available.",
       "date": "2026-11-12T10:41:39Z",
       "tintColor": "#111111",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/news.png",
       "notify": true,
       "url": "https://github.com/mengangs/ipadn/releases/tag/v2.0.0"
     }

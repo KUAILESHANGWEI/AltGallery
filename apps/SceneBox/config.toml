@@ -8,7 +8,7 @@ repo = "donbytyqi/scenebox"
 name = "SceneBox"
 subtitle = "SceneBox AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for SceneBox"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/icon.png"
 website = "https://github.com/donbytyqi/scenebox"
 tint_color = "#E0E000"
 
@@ -18,11 +18,11 @@ bundle_identifier = "app.scenebox.SceneBox"
 developer_name = "donbytyqi"
 subtitle = "Torrent streaming client"
 description = "Torrent streaming client for iOS, iPadOS, tvOS and Mac (Catalyst), written in SwiftUI. Streams come from Stremio-compatible addons and play through a vendored libtorrent engine feeding VLC."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/home.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/search.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/profile.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/home.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/search.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/profile.png",
 ]
 tint_color = "#E0E000"
 min_os_version = "18.0"
@@ -37,7 +37,7 @@ asset_pattern = "SceneBox-[0-9]+\\.[0-9]+\\.[0-9]+\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/news.png"
 
 [output]
 path = "apps.json"

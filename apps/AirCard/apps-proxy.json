@@ -2,7 +2,7 @@
   "name": "AirCard-iOS",
   "subtitle": "AirCard-iOS AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for AirCard-iOS",
-  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/icon.png",
+  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/icon.png",
   "website": "https://github.com/Mak5er/AirCard-iOS",
   "tintColor": "#5020E0",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "Mak5er",
       "subtitle": "Apple Wallet card skins, passcode themes and wallpapers",
       "localizedDescription": "Customize Apple Wallet card artwork, lock screen passcode dialers and PosterBoard wallpapers directly on device, without a jailbreak. Requires iOS 27 or newer, LocalDevVPN running in loopback mode, and Developer Mode pairing.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/wallet.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/pairing.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/wallpapers.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/wallet.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/pairing.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/wallpapers.png"
       ],
       "tintColor": "#5020E0",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "AirCard-iOS 1.3.2 is available.",
       "date": "2026-10-04T12:22:53Z",
       "tintColor": "#5020E0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/news.png",
       "notify": true,
       "url": "https://github.com/Mak5er/AirCard-iOS/releases/tag/v1.3.2"
     }

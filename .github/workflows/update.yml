@@ -1,79 +1,66 @@
 name: Update apps.json and all-apps.json
-
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '17 */6 * * *'
   workflow_dispatch:
-    inputs:
-      skip_failures:
-        description: 'Skip apps whose repo fails (404/renamed) instead of failing the whole run'
-        type: boolean
-        default: false
   push:
-    branches:
-      - master
-
+    branches: [main]
 permissions:
   contents: write
-
+concurrency:
+  group: mirror
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GITHUB_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-
-      # update.sh uses `uvx altgen`
       - uses: astral-sh/setup-uv@v7
-
-      - name: Run update.sh
-        run: ./update.sh
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-          # Only set (to "1") when a manual run ticked the box; empty otherwise,
-          # so scheduled/push runs still fail on a broken repo.
-          SKIP_FAILURES: ${{ inputs.skip_failures && '1' || '' }}
-
-      # Generate a proxy mirror beside each app source, using the same URL
-      # rewriting rules as the combined all-apps source below.
-      - name: Generate per-app proxy sources
+      - name: Merge upstream and preserve local commits
+        shell: bash
         run: |
-          set -euo pipefail
-          shopt -s nullglob
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote add upstream https://github.com/bebound/AltGallery.git
+          if git fetch upstream '+refs/heads/*:refs/remotes/upstream/*' --tags; then
+            git merge --no-edit upstream/master
+          else
+            echo '::warning::Upstream unavailable; retaining all archived sources and assets.'
+          fi
+      - name: Localize and regenerate
+        run: |
+          python3 .github/scripts/mirror.py --localize-only
+          ./update.sh --skip-failures
+      - name: Archive and verify assets
+        run: python3 .github/scripts/mirror.py
+      - name: Merge archived sources and build catalog
+        shell: bash
+        run: |
+          uvx altgen merge -c assets/merge.toml apps/*/apps.json
           for source in apps/*/apps.json; do
             python3 tools/make_proxy.py "$source" "${source%/apps.json}/apps-proxy.json"
           done
-
-      # Mirror of all-apps.json for users who cannot reach GitHub: the raw
-      # files it references (icons, screenshots, news images) and the release
-      # ipa downloads go through gh-proxy.com. Release pages, news links and
-      # the website stay plain GitHub URLs. Regenerated from scratch on every
-      # run, so it always matches the source generated above.
-      - name: Generate all-apps-proxy.json
-        run: python3 tools/make_proxy.py all-apps.json all-apps-proxy.json
-
-      # Generated app sources and proxy mirrors are gitignored, so
-      # `git add -A` won't pick them up. Stage them explicitly (force) so the
-      # regenerated sources can be committed here — contributors never commit
-      # them.
-      - name: Stage generated sources
-        run: git add -f all-apps.json all-apps-proxy.json apps/*/apps.json apps/*/apps-proxy.json
-
-      - name: Check for changes
-        id: changes
+          python3 tools/make_proxy.py all-apps.json all-apps-proxy.json
+          python3 tools/build_site.py
+          cp archive-manifest.json SHA256SUMS _site/
+          cp -R assets apps _site/
+          (cd _site && zip -qr ../AltGallery-catalog.zip .)
+      - name: Commit generated catalog
         run: |
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Commit and push
-        if: steps.changes.outputs.changed == 'true'
+          git add -A
+          git add -f all-apps.json all-apps-proxy.json apps/*/apps.json apps/*/apps-proxy.json
+          git diff --cached --quiet || git commit -m 'chore: sync upstream and retain verified archives'
+          git push origin HEAD:main
+          git push origin 'refs/remotes/upstream/*:refs/heads/archive/upstream/*'
+          git push origin --tags
+      - name: Publish retained snapshot
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update app sources and proxy mirrors"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+          tag="catalog-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          gh release create "$tag" AltGallery-catalog.zip SHA256SUMS archive-manifest.json all-apps.json -R "$GITHUB_REPOSITORY" --target main --title "$tag" --notes 'Catalog snapshot and verified dependency archive. Private repositories require GitHub authentication.' --latest

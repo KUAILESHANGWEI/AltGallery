@@ -8,7 +8,7 @@ repo = "LiveContainer/LiveContainer"
 name = "LiveContainer+SideStore"
 subtitle = "LiveContainer+SideStore AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for LiveContainer+SideStore"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/icon.png"
 website = "https://github.com/LiveContainer/LiveContainer"
 tint_color = "#0784FC"
 
@@ -18,11 +18,11 @@ bundle_identifier = "com.kdt.livecontainer"
 developer_name = "LiveContainer Team"
 subtitle = "Run iOS apps without actually installing them!"
 description = "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your apps."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/apps.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/sources.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/settings.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/apps.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/sources.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/settings.png",
 ]
 tint_color = "#0784FC"
 min_os_version = "15.0"
@@ -39,7 +39,7 @@ version_source = "ipa"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/news.png"
 
 [output]
 path = "apps.json"

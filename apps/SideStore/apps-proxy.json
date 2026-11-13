@@ -2,7 +2,7 @@
   "name": "SideStore",
   "subtitle": "SideStore AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for SideStore",
-  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.png",
+  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/icon.png",
   "website": "https://github.com/SideStore/SideStore",
   "tintColor": "#A405FA",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "SideStore Team",
       "subtitle": "Untethered alternative app store for iOS",
       "localizedDescription": "SideStore is an untethered, community-driven alternative app store for non-jailbroken iOS devices. It resigns and installs .ipa files with your personal Apple ID and refreshes them in the background, so sideloading no longer requires AltServer.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/apps.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/browse.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/news.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/apps.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/browse.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/news.png"
       ],
       "tintColor": "#A405FA",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "SideStore 0.7.0-20260911.328+6032424a is available.",
       "date": "2026-09-15T11:12:49Z",
       "tintColor": "#A405FA",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/news.png",
       "notify": true,
       "url": "https://github.com/SideStore/SideStore/releases/tag/0.7.0-alpha"
     }

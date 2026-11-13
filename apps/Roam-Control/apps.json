@@ -2,7 +2,7 @@
   "name": "Roam Control",
   "subtitle": "Roam Control AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for Roam Control",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/icon.png",
   "website": "https://github.com/seanhowarthdev/Roam-Control",
   "tintColor": "#1090F0",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "seanhowarthdev",
       "subtitle": "Choose, test and move your iPhone's reported location",
       "localizedDescription": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or newer, and guided LocalDevVPN-compatible sessions for Wi-Fi and mobile data.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/welcome.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/fixed-location.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/walking-preview.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/welcome.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/fixed-location.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/walking-preview.png"
       ],
       "tintColor": "#1090F0",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "Roam Control 0.9.9 is available.",
       "date": "2026-10-20T19:33:03Z",
       "tintColor": "#1090F0",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/news.png",
       "notify": true,
       "url": "https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9"
     }

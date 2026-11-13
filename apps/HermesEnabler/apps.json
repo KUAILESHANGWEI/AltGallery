@@ -2,7 +2,7 @@
   "name": "HermesEnabler",
   "subtitle": "HermesEnabler AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for HermesEnabler",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/icon.png",
   "website": "https://github.com/pookjw/HermesEnabler",
   "tintColor": "#70C0F0",
   "apps": [
@@ -12,9 +12,9 @@
       "developerName": "pookjw",
       "subtitle": "Enable Hermès Watch Faces on any Apple Watch",
       "localizedDescription": "Enable Hermès and Ultra watch faces on any Apple Watch, along with display, sensor, and Siri tweaks backed by MobileGestalt changes and automatic backups. Requires watchOS 27.0 through 27.3 beta 1.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/watch.jpg"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/images/watch.jpg"
       ],
       "tintColor": "#70C0F0",
       "versions": [
@@ -37,7 +37,7 @@
       "caption": "HermesEnabler 1.0 is available.",
       "date": "2026-11-13T04:21:43Z",
       "tintColor": "#70C0F0",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/images/news.png",
       "notify": true,
       "url": "https://github.com/pookjw/HermesEnabler/releases/tag/1.5.4"
     }

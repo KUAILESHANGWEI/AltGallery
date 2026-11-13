@@ -2,7 +2,7 @@
   "name": "Playport",
   "subtitle": "Playport AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for Playport",
-  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.png",
+  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/icon.png",
   "website": "https://github.com/playportdev/playport",
   "tintColor": "#F5B544",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "playportdev",
       "subtitle": "PC games on your iPhone. Natively, no streaming.",
       "localizedDescription": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU — no PC, no cloud, no stream. Requires iOS 26 or later with JIT enabled through LocalDevVPN or StikDebug.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/game-page.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/game-page.png"
       ],
       "tintColor": "#F5B544",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "Playport 0.5.0 is available.",
       "date": "2026-11-02T10:13:17Z",
       "tintColor": "#F5B544",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/news.png",
       "notify": true,
       "url": "https://github.com/playportdev/playport/releases/tag/v0.5.0"
     }

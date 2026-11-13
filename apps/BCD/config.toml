@@ -11,7 +11,7 @@ repo = "thebcd69/bcd-games"
 name = "BCD"
 subtitle = "BCD AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for BCD"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/icon.png"
 website = "https://github.com/thebcd69/bcd-games"
 tint_color = "#F070F0"
 
@@ -21,12 +21,12 @@ bundle_identifier = "com.thebcd69.bcd"
 developer_name = "thebcd69"
 subtitle = "Windows games on iPhone and iPad"
 description = "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/library.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/settings.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/accounts.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/controllers.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/library.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/settings.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/accounts.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/controllers.png",
 ]
 tint_color = "#F070F0"
 min_os_version = "18.0"
@@ -42,7 +42,7 @@ asset_pattern = "^BCD\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/news.png"
 
 [output]
 path = "apps.json"

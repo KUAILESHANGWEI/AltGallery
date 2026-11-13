@@ -7,9 +7,6 @@ name: Build and deploy GitHub Pages
 # update workflow itself use GITHUB_TOKEN and never trigger `push` workflows,
 # which is why the trigger has to go through `workflow_run` rather than `push`.
 on:
-  workflow_run:
-    workflows: ["Update apps.json and all-apps.json"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:

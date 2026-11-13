@@ -2,7 +2,7 @@
   "name": "DLiPA",
   "subtitle": "DLiPA AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for DLiPA",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/icon.png",
   "website": "https://github.com/AhmedBafkir/DLiPA",
   "tintColor": "#27A0F4",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "Ahmed Bafkir",
       "subtitle": "Download, install and share App Store IPAs",
       "localizedDescription": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and install or share it without a jailbreak.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/versions.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/downloads.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/search.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/versions.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/downloads.png"
       ],
       "tintColor": "#27A0F4",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "DLiPA 1.4 is available.",
       "date": "2026-08-03T08:46:29Z",
       "tintColor": "#27A0F4",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/news.png",
       "notify": true,
       "url": "https://github.com/AhmedBafkir/DLiPA/releases/tag/v1.4"
     }

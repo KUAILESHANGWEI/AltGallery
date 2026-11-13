@@ -2,8 +2,8 @@
   "name": "AltGallery",
   "subtitle": "Curated AltStore sources for IPA projects on GitHub",
   "description": "AltStore sources generated from GitHub Releases by AltGallery",
-  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/assets/icon.png",
-  "website": "https://github.com/bebound/AltGallery",
+  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/assets/icon.png",
+  "website": "https://github.com/KUAILESHANGWEI/AltGallery",
   "tintColor": "#3B82F6",
   "apps": [
     {
@@ -12,11 +12,11 @@
       "developerName": "Skitty",
       "subtitle": "Free and open source manga reader for iOS and iPadOS",
       "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Aidoku/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/source.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/reader.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Aidoku/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Aidoku/images/source.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Aidoku/images/reader.png"
       ],
       "tintColor": "#FF375F",
       "versions": [
@@ -36,11 +36,11 @@
       "developerName": "Mak5er",
       "subtitle": "Apple Wallet card skins, passcode themes and wallpapers",
       "localizedDescription": "Customize Apple Wallet card artwork, lock screen passcode dialers and PosterBoard wallpapers directly on device, without a jailbreak. Requires iOS 27 or newer, LocalDevVPN running in loopback mode, and Developer Mode pairing.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/wallet.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/pairing.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/wallpapers.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/wallet.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/pairing.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/wallpapers.png"
       ],
       "tintColor": "#5020E0",
       "versions": [
@@ -60,14 +60,14 @@
       "developerName": "Riley & Shane",
       "subtitle": "Sideload non-notarized apps with AltServer.",
       "localizedDescription": "AltStore Classic allows you to sideload non-notarized .ipa files with AltServer on a Mac or PC.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/myapps.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/app-detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/browse.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/sources.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/add-source.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/myapps.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/app-detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/browse.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/sources.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/add-source.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/settings.png"
       ],
       "tintColor": "#018084",
       "versions": [
@@ -87,11 +87,11 @@
       "developerName": "AniBakaBaka",
       "subtitle": "跨平台番剧聚合、媒体播放与弹幕客户端",
       "localizedDescription": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AniBaka/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/player.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AniBaka/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AniBaka/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AniBaka/images/player.png"
       ],
       "tintColor": "#0077B6",
       "versions": [
@@ -112,11 +112,11 @@
       "developerName": "openAnimeFlow",
       "subtitle": "跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕",
       "localizedDescription": "AnimeFlow 是一个跨平台动漫视频播放应用，支持 Android、iOS、Windows、macOS 与 Linux。内置多数据源与自定义 XPath 爬虫配置，支持基于 Anime4K 的实时视频 4K 超分辨率，对接 Bangumi 同步收藏与追番数据，并支持多平台弹幕源与丰富的弹幕设置。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AnimeFlow/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/comment.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AnimeFlow/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AnimeFlow/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AnimeFlow/images/comment.png"
       ],
       "tintColor": "#124EB3",
       "versions": [
@@ -136,11 +136,11 @@
       "developerName": "open-ani",
       "subtitle": "一站式弹幕追番平台",
       "localizedDescription": "Animeko 是一个 Kotlin/Compose Multiplatform 打造的一站式弹幕追番平台，集找番、追番、看番于一体，支持 Bangumi 云同步观看记录、多视频数据源聚合（含 BitTorrent、Jellyfin、Emby）、离线缓存与弹幕云过滤。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Animeko/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/subject-details.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/episode.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Animeko/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Animeko/images/subject-details.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Animeko/images/episode.png"
       ],
       "tintColor": "#0050A0",
       "versions": [
@@ -160,13 +160,13 @@
       "developerName": "Christian Selig (& Apollo-Reborn contributors)",
       "subtitle": "Apollo-Reborn build with Liquid Glass patch",
       "localizedDescription": "Apollo-Reborn is the community-maintained Apollo sideload build powered by the Apollo-Reborn tweak.\n\nIt restores custom API support, media fixes, uploads, inline media, translation, saved categories, Home Screen and Lock Screen widgets, Liquid Glass support on iOS 26+, and the rest of the project’s ongoing fixes and enhancements.\n\nThese sources are intended for AltStore Classic, SideStore, and Feather. Apollo-Reborn is not compatible with AltStore PAL.\n\nChoose the source variant that matches how you sideload:\n\n• Standard: full app bundle with Apollo’s working extensions plus Apollo-Reborn widgets\n• No Extensions: strips app extensions, including widgets, to reduce App ID usage on free Apple IDs\n• GLASS: adds the Liquid Glass iOS 26 patch and bundled Liquid Glass icon catalog\n• No Extensions + GLASS: combines both options\n\nThe extension-bearing builds (Standard and GLASS) register about 7 App IDs, one per bundled app extension. A free Apple ID can register 10 App IDs per 7 days, so a clean single install fits, but it is easy to exceed if you install under more than one bundle ID, reinstall within the same week, or sideload other extension-bearing apps. If an install fails with an App ID error, use a No Extensions build (1 App ID) or wait for older App IDs to expire. A paid Apple Developer account has a much higher cap.\n\nThis project is not affiliated with Apollo or Christian Selig.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/avatar-profile.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/settings.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/custom.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/recents.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/lg-icons.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/images/avatar-profile.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/images/settings.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/images/custom.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/images/recents.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/images/lg-icons.jpg"
       ],
       "tintColor": "#6050F0",
       "versions": [
@@ -185,11 +185,11 @@
       "developerName": "ARMSX2",
       "subtitle": "PlayStation 2 emulator for ARM64",
       "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming handheld.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ARMSX2/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/game.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/list.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ARMSX2/images/game.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ARMSX2/images/list.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ARMSX2/images/settings.png"
       ],
       "tintColor": "#3CAEFF",
       "versions": [
@@ -209,11 +209,11 @@
       "developerName": "Lakr233",
       "subtitle": "The ultimate multi-region App Store manager",
       "localizedDescription": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable IPA library with older versions — no signing out of your device required.\n\nDownloads go through Apple's servers with your own Apple ID. Because the underlying protocol is the same one ipatool uses, a secondary or burner account is strongly recommended.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/search.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/app.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/account.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/search.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/app.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/account.jpeg"
       ],
       "tintColor": "#3060D0",
       "versions": [
@@ -233,12 +233,12 @@
       "developerName": "thebcd69",
       "subtitle": "Windows games on iPhone and iPad",
       "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/settings.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/accounts.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/controllers.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/settings.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/accounts.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/controllers.png"
       ],
       "tintColor": "#F070F0",
       "versions": [
@@ -258,11 +258,11 @@
       "developerName": "Ahmed Bafkir",
       "subtitle": "Download, install and share App Store IPAs",
       "localizedDescription": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and install or share it without a jailbreak.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/search.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/versions.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/downloads.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/search.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/versions.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/downloads.png"
       ],
       "tintColor": "#27A0F4",
       "versions": [
@@ -282,11 +282,11 @@
       "developerName": "moliango",
       "subtitle": "A native iOS client for Linux.do",
       "localizedDescription": "A native iOS client for Linux.do — UIKit + Swift, no SwiftUI in the main app.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/me.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/me.png"
       ],
       "tintColor": "#4080E0",
       "versions": [
@@ -306,11 +306,11 @@
       "developerName": "OatmealDome",
       "subtitle": "GameCube and Wii emulator for iOS/iPadOS",
       "localizedDescription": "Dolphin for iOS, reborn. A GameCube and Wii emulator for iPhone and iPad.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DolphiniOS/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/game.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DolphiniOS/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DolphiniOS/images/game.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DolphiniOS/images/settings.png"
       ],
       "tintColor": "#E0B030",
       "versions": [
@@ -330,11 +330,11 @@
       "developerName": "Manic EMU Development Team",
       "subtitle": "Original Xbox emulation for iOS",
       "localizedDescription": "DukeX is an experimental iOS-focused frontend for xemu. It embeds the xemu core in a native Swift shell and presents the Vulkan renderer through MoltenVK and native Metal.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DukeX/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/activity.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/game.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DukeX/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DukeX/images/activity.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DukeX/images/game.png"
       ],
       "tintColor": "#8FCA39",
       "versions": [
@@ -354,11 +354,11 @@
       "developerName": "EhPanda-Team",
       "subtitle": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA",
       "localizedDescription": "EhPanda is an unofficial E-Hentai app for iOS & iPadOS built with SwiftUI & TCA. It supports almost all E-Hentai gallery categories, gallery browsing with filters, gallery details with tags & related galleries, posting / editing / replying to comments, H@H archiving, torrent listing, E-Hentai settings, and SNI-bypass (domain fronting) for restricted networks. Localization is built in and the app icon and accent color are customizable.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/EhPanda/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/comment.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/EhPanda/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/EhPanda/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/EhPanda/images/comment.png"
       ],
       "tintColor": "#0f766e",
       "versions": [
@@ -378,11 +378,11 @@
       "developerName": "Kianuni",
       "subtitle": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱",
       "localizedDescription": "A Simplified-Chinese localization of the Erosion MobileGestalt toolbox, with hardened write and backup paths for system configuration on iOS / iPadOS 27.x, plus partial support for iOS / iPadOS 26.x. Needs at least one App Group entitlement when re-signing.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/home.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/tweaks.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/files.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/home.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/tweaks.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/files.jpeg"
       ],
       "tintColor": "#D07030",
       "versions": [
@@ -402,10 +402,10 @@
       "developerName": "Leviidev",
       "subtitle": "x86-64 PC emulator for iOS",
       "localizedDescription": "An x86-64 PC emulator for iOS. Fathom runs x86-64 Linux programs on an iPhone or iPad by translating them to ARM64 as they execute, using FEXCore - the dynamic recompiler behind FEX-Emu - with a native SwiftUI front end.\n\nImport a statically linked x86-64 Linux executable, open it, press Run. Fathom maps it into a guest address space, hands its instructions to FEXCore's JIT, answers its Linux syscalls, and shows you its output.\n\nJIT requires StikDebug to attach to the process and service the executable-memory traps; Fathom asks for this automatically on launch when it is missing.\n\nPlease note: only statically linked, position-independent executables (-static-pie) run today. Dynamically linked binaries and 32-bit x86 are not supported yet, and threads are not implemented, so a guest runs single-threaded.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Fathom/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Fathom/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Fathom/images/settings.png"
       ],
       "tintColor": "#68D8D8",
       "versions": [
@@ -425,12 +425,12 @@
       "developerName": "Samara",
       "subtitle": "On-device signing application",
       "localizedDescription": "Free on-device iOS/iPadOS application manager and installer. Feather uses certificates from the Apple Developer Program to sign and install ipas on stock iOS, with built-in app management.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Feather/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/repos.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/sign.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/store.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Feather/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Feather/images/repos.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Feather/images/sign.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Feather/images/store.png"
       ],
       "tintColor": "#848ef9",
       "versions": [
@@ -450,9 +450,9 @@
       "developerName": "huamidev",
       "subtitle": "MobileGestalt editor for iOS 27 with region-code tweaks and presets",
       "localizedDescription": "A MobileGestalt editor for iOS 27.x with region-code and sales-region tweaks, device presets, backups, and a typed field editor. Powered by worse_query; requires iOS 27 for on-device MobileGestalt access and a common App Group when re-signing.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/GestaltX/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/images/home.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/GestaltX/images/home.jpeg"
       ],
       "tintColor": "#007AFF",
       "versions": [
@@ -472,9 +472,9 @@
       "developerName": "pookjw",
       "subtitle": "Enable Hermès Watch Faces on any Apple Watch",
       "localizedDescription": "Enable Hermès and Ultra watch faces on any Apple Watch, along with display, sensor, and Siri tweaks backed by MobileGestalt changes and automatic backups. Requires watchOS 27.0 through 27.3 beta 1.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/watch.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/images/watch.jpg"
       ],
       "tintColor": "#70C0F0",
       "versions": [
@@ -494,10 +494,10 @@
       "developerName": "Leviidev",
       "subtitle": "Android app launcher for iOS",
       "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/main.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/images/main.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/images/settings.png"
       ],
       "tintColor": "#5949E5",
       "versions": [
@@ -517,10 +517,10 @@
       "developerName": "kuscholar",
       "subtitle": "Steam Big Picture on iPhone and iPad",
       "localizedDescription": "Run Valve’s Steam client in Big Picture and compatible Windows PC games locally on iPhone and iPad through Madeira, Wine, FEX and Metal. Experimental; requires iOS 26+, JIT, and user-provided Steam files.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iDeck/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/configuration.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/steam-home.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iDeck/images/configuration.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iDeck/images/steam-home.jpg"
       ],
       "tintColor": "#50D0F0",
       "versions": [
@@ -541,12 +541,12 @@
       "developerName": "mengangs",
       "subtitle": "Download older and removed App Store apps",
       "localizedDescription": "Search, download and install the apps you own on iPhone and iPad — older versions, removed apps, regional price comparison and native install. Works with iPhone, iPad, Apple TV and Mac apps, in 11 languages.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/search.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/versions.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/prices.png"
       ],
       "tintColor": "#111111",
       "versions": [
@@ -566,10 +566,10 @@
       "developerName": "intraducine",
       "subtitle": "Experimental Windows-game runtime for iPhone and iPad",
       "localizedDescription": "An experimental iPhone and iPad Windows-game runtime, with a native game library and touch, keyboard, mouse, and controller integration. Requires iOS 18+, JIT, and your own game files; compatibility varies by game and device.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Iridium/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/all-games.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Iridium/images/all-games.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Iridium/images/settings.png"
       ],
       "tintColor": "#1C1C1E",
       "versions": [
@@ -589,11 +589,11 @@
       "developerName": "XITRIX",
       "subtitle": "Torrent client for iOS",
       "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support and much more.\n\nWhat can this app do:\n\n• Download in the background\n• Live Activity and Dynamic Island progress bar\n• Downloading on external drives\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app\n• File sharing directly from app\n• Download torrent by url\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• Web/WebDav Server\n• Select files download priority\n• Change UI to dark theme\n• Color personalization\n• RSS Feed",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iTorrent/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/player.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iTorrent/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iTorrent/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iTorrent/images/player.png"
       ],
       "tintColor": "#F19E69",
       "versions": [
@@ -613,14 +613,14 @@
       "developerName": "Predidit",
       "subtitle": "基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。",
       "localizedDescription": "使用 Flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则，支持规则导入与规则分享，支持基于 Anime4K 的实时超分辨率。\n\n其他特性：番剧目录与搜索、分集播放、番剧弹幕、追番列表、历史记录、倍速播放、多视频源支持、配色方案等。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/home.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/timetable.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/details.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/selection.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules_edit.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/home.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/timetable.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/details.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/selection.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/rules.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/rules_edit.jpg"
       ],
       "tintColor": "#4CAF50",
       "versions": [
@@ -640,11 +640,11 @@
       "developerName": "LinkPass888",
       "subtitle": "基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。",
       "localizedDescription": "基于自定义规则的番剧采集与在线观看客户端，带弹幕。原生 SwiftUI 实现，界面使用 iOS 26 的液态玻璃材质，随系统外观与辅助功能设置变化。\n\n内置 mpv 播放内核与 Anime4K 实时超分辨率，支持弹弹play 弹幕、Bangumi 追番绑定、时间表、下载与 WebDAV 备份。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi-Swift/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/01-recommend.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/02-detail.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/03-player.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi-Swift/images/01-recommend.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi-Swift/images/02-detail.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi-Swift/images/03-player.jpeg"
       ],
       "tintColor": "#45A992",
       "versions": [
@@ -664,11 +664,11 @@
       "developerName": "Mac-XK",
       "subtitle": "基于 SwiftUI 的多源音乐聚合播放器",
       "localizedDescription": "基于 SwiftUI 开发的多源音乐聚合播放器，支持 iOS/macOS。内置酷我、酷狗、QQ 音乐、网易云、咪咕等多平台音源，支持 LRC 歌词同步、全局搜索、后台播放与深色主题，并可通过 JS 脚本导入自定义音源。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/KMusic/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/recommendation.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/playlist.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/play.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/KMusic/images/recommendation.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/KMusic/images/playlist.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/KMusic/images/play.png"
       ],
       "tintColor": "#F03050",
       "versions": [
@@ -688,11 +688,11 @@
       "developerName": "missuo",
       "subtitle": "原生 NetEase Cloud Music iOS 客户端（雲の音）",
       "localizedDescription": "Kumone（雲の音）— native NetEase Cloud Music client for iOS. Talks directly to NetEase's real API with no third-party server: QR-code login, gray-track unblocking, synced lyrics with translation, immersive artwork-tinted now-playing, and playlist management.\n\nSupports English and Simplified Chinese localization.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kumone/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/search.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/featured.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kumone/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kumone/images/search.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kumone/images/featured.png"
       ],
       "tintColor": "#EC4949",
       "versions": [
@@ -712,10 +712,10 @@
       "developerName": "LightNovelShelf",
       "subtitle": "轻书架官方 Flutter 客户端",
       "localizedDescription": "轻书架官方 Flutter 客户端，面向 iOS、iPadOS 与 Android，支持书架管理、在线阅读、翻页动画、双页阅读与自动更新。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/home.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/community.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/home.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/community.jpeg"
       ],
       "tintColor": "#4E4592",
       "versions": [
@@ -735,11 +735,11 @@
       "developerName": "Leminos",
       "subtitle": "Run ARM64 Linux apps and desktops on iOS",
       "localizedDescription": "Run ARM64 Linux applications and desktop environments on iOS without a jailbreak, virtual machine, or JIT.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/terminal.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/terminal.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/settings.png"
       ],
       "tintColor": "#60B0F0",
       "versions": [
@@ -759,11 +759,11 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your apps.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/apps.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/sources.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/apps.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/sources.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/settings.png"
       ],
       "tintColor": "#0784FC",
       "versions": [
@@ -791,10 +791,10 @@
       "developerName": "lpfoj",
       "subtitle": "Open-source PS4/PS5 emulator",
       "localizedDescription": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LSX4/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LSX4/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LSX4/images/settings.png"
       ],
       "tintColor": "#C09050",
       "versions": [
@@ -815,11 +815,11 @@
       "developerName": "Will Faust",
       "subtitle": "Windows PC games on your iPhone",
       "localizedDescription": "Madeira runs unmodified x86-64 Windows PC games inside a single jailed iOS app: FEX-Emu translates the game's x86 code to ARM64 as it runs, Wine 11.4 built for ARM64EC provides Windows itself, and DXMT plus Madeira's own Direct3D 12 runtime draw Direct3D 9, 10, 11 and 12 through Metal. Games come with a library, Steam sign-in and installs, controller and touch controls, and keyboard, mouse and trackpad input. Requires an iPhone on iOS 26 or later with JIT enabled through StikDebug.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Madeira/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/introduction.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/main.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Madeira/images/introduction.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Madeira/images/main.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Madeira/images/settings.png"
       ],
       "tintColor": "#7B68EE",
       "versions": [
@@ -839,11 +839,11 @@
       "developerName": "Moustapha Kodjo Amadou",
       "subtitle": "Read manga, novels, and watch anime",
       "localizedDescription": "Mangayomi is an open-source Flutter app for reading manga, novels, and watching anime across multiple platforms.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mangayomi/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot1.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot2.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot3.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mangayomi/images/screenshot1.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mangayomi/images/screenshot2.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mangayomi/images/screenshot3.jpg"
       ],
       "tintColor": "#EF4444",
       "versions": [
@@ -862,11 +862,11 @@
       "developerName": "Manic EMU Development Team",
       "subtitle": "All-in-one retro game emulator for iOS",
       "localizedDescription": "All-in-one retro game emulator for iOS, bringing console, arcade, computer, and mobile Java systems into one clean app with saves, cheats, custom skins, RetroAchievements, and more.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/library.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/landscape.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/achievements.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/library.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/landscape.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/achievements.jpg"
       ],
       "tintColor": "#F02040",
       "versions": [
@@ -886,12 +886,12 @@
       "developerName": "youshen2",
       "subtitle": "使用 SwiftUI 开发的网易云音乐第三方客户端",
       "localizedDescription": "面向 iPhone、iPad 与 Apple Watch 的原生网易云音乐客户端，使用 SwiftUI 构建，参考 Apple Music 的 Liquid Glass 设计，支持逐字歌词、文字 PV 歌词、全屏天际歌词等特色功能。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MeloX/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/player.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/lyrics.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MeloX/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MeloX/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MeloX/images/player.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MeloX/images/lyrics.png"
       ],
       "tintColor": "#E01F2D",
       "versions": [
@@ -911,12 +911,12 @@
       "developerName": "ResistanceTo",
       "subtitle": "Battery, charging and thermal instrument",
       "localizedDescription": "An iPhone battery and charging monitor built on Apple's private APIs: the charger's real watts, how much of that reaches the cell, where the rest goes as heat, and every temperature sensor in the phone. No network code — nothing it reads leaves your phone.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MiniWatts/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/power.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/thermal.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/adapter.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/history.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MiniWatts/images/power.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MiniWatts/images/thermal.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MiniWatts/images/adapter.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MiniWatts/images/history.jpg"
       ],
       "tintColor": "#30E0F0",
       "versions": [
@@ -936,12 +936,12 @@
       "developerName": "zarzet",
       "subtitle": "FLAC Downloader for iOS",
       "localizedDescription": "Mornye is a Flutter and Rust music app with a full-screen player, hi-res and bit-perfect output, synced word-by-word lyrics, and installable extensions for metadata and audio downloads. Downloads and your own music folders share one local library, and SMB, WebDAV, HTTP or Subsonic servers can stream straight to the phone.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mornye/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/nowplaying.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/lyrics.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/devices.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mornye/images/nowplaying.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mornye/images/lyrics.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mornye/images/devices.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mornye/images/settings.png"
       ],
       "tintColor": "#1E4E4F",
       "versions": [
@@ -961,11 +961,11 @@
       "developerName": "jxxghp",
       "subtitle": "MoviePilot 的 iOS 原生客户端",
       "localizedDescription": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilot-App/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/recommend.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/downloads.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilot-App/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilot-App/images/recommend.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilot-App/images/downloads.png"
       ],
       "tintColor": "#8844F6",
       "versions": [
@@ -985,11 +985,11 @@
       "developerName": "singleton-altman",
       "subtitle": "MoviePilot 移动端，基于 Flutter 实现",
       "localizedDescription": "基于 MoviePilot 的 Flutter 跨端客户端，对接 MoviePilot v2 API，在手机上完成订阅、搜索、下载、整理与系统运维等常用操作。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilotLite/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/recommend.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/explorer.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilotLite/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilotLite/images/recommend.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilotLite/images/explorer.png"
       ],
       "tintColor": "#8050F0",
       "versions": [
@@ -1009,11 +1009,11 @@
       "developerName": "dddevid",
       "subtitle": "Free Navidrome client & Subsonic music player",
       "localizedDescription": "Musly is a free Navidrome client and Subsonic music player with an Apple Music-inspired interface. Stream your self-hosted library from Navidrome, Subsonic, or Airsonic servers on iOS, Android, desktop, and more.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Musly/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/player.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Musly/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Musly/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Musly/images/player.png"
       ],
       "tintColor": "#FA243C",
       "versions": [
@@ -1033,11 +1033,11 @@
       "developerName": "verback2308",
       "subtitle": "YouTube client for iOS 12+",
       "localizedDescription": "A lightweight YouTube client with SponsorBlock, Return YouTube Dislike, and up to 1080p playback. No ads, no tracking, no dependencies.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/home.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/player.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/channel.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/home.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/player.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/channel.jpg"
       ],
       "tintColor": "#FF0000",
       "versions": [
@@ -1057,9 +1057,9 @@
       "developerName": "hugeBlack",
       "subtitle": "Open Parsec client for iOS/iPadOS",
       "localizedDescription": "An open-source Parsec client for iOS/iPadOS with mouse, keyboard, and touch-screen support.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/OpenParsec/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/images/login.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/OpenParsec/images/login.png"
       ],
       "tintColor": "#BB01F0",
       "versions": [
@@ -1079,9 +1079,9 @@
       "developerName": "MakrSas",
       "subtitle": "Apple Silicon macOS Ventura running inside an iPhone app",
       "localizedDescription": "Boots a real arm64 macOS Ventura guest on iPhone through Apple's own chain (AVPBooter, iBoot and XNU) on QEMU's apple-vm machine, with the GPU drawn through Metal by reims-vgpu. Requires JIT, a signing tool that adds the increased memory limit, and a macOS VM you make yourself. It is slow — light scenes reach 30–40 fps at best.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Orchard/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/images/main.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Orchard/images/main.png"
       ],
       "tintColor": "#F0C060",
       "versions": [
@@ -1101,11 +1101,11 @@
       "developerName": "bggRGjQaUbCoE",
       "subtitle": "使用Flutter开发的BiliBili第三方客户端",
       "localizedDescription": "使用Flutter开发的BiliBili第三方客户端",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PiliPlus/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/bangumi.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/dynamic.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PiliPlus/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PiliPlus/images/bangumi.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PiliPlus/images/dynamic.png"
       ],
       "tintColor": "#73b480",
       "versions": [
@@ -1126,11 +1126,11 @@
       "developerName": "Eslzzyl",
       "subtitle": "基于 SwiftUI 的 Pixiv 第三方客户端",
       "localizedDescription": "基于 SwiftUI 开发的 Pixiv 第三方客户端，支持 iOS/iPadOS/macOS。提供插画、漫画与小说的推荐、排行榜、搜索与收藏，内置评论系统、批量下载、数据导入导出、深色模式与主题自定义。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Pixiv-SwiftUI/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/recommend.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/search.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Pixiv-SwiftUI/images/recommend.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Pixiv-SwiftUI/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Pixiv-SwiftUI/images/search.png"
       ],
       "tintColor": "#13A1FD",
       "versions": [
@@ -1150,11 +1150,11 @@
       "developerName": "playportdev",
       "subtitle": "PC games on your iPhone. Natively, no streaming.",
       "localizedDescription": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU — no PC, no cloud, no stream. Requires iOS 26 or later with JIT enabled through LocalDevVPN or StikDebug.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/library.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/game-page.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/library.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/game-page.png"
       ],
       "tintColor": "#F5B544",
       "versions": [
@@ -1174,11 +1174,11 @@
       "developerName": "xmiguel911x",
       "subtitle": "PlayStation 3 emulator for iPhone and iPad",
       "localizedDescription": "A PlayStation 3 emulator for iPhone and iPad, built on RPCS3. Real games boot and play — the whole emulator core is exposed, with community game patches, trophies, play time, save data and 14 languages. Works with or without JIT.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PSX3IOS/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/home.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/install.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/settings.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PSX3IOS/images/home.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PSX3IOS/images/install.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PSX3IOS/images/settings.jpg"
       ],
       "tintColor": "#5080D0",
       "versions": [
@@ -1198,11 +1198,11 @@
       "developerName": "liuchuancong",
       "subtitle": "基于 Flutter 的开源多平台直播聚合播放器",
       "localizedDescription": "纯粹直播（Pure Live）是一款基于 Flutter 的开源第三方多平台直播聚合播放器，支持 Bilibili、虎牙、斗鱼、快手、抖音、网易 CC、Twitch 等平台，以及自定义 M3U/M3U8 直播源。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PureLive/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/list.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/area.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/auth.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PureLive/images/list.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PureLive/images/area.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PureLive/images/auth.jpg"
       ],
       "tintColor": "#50B0F0",
       "versions": [
@@ -1222,10 +1222,10 @@
       "developerName": "TarbleFR",
       "subtitle": "Emulation frontend for iPhone and iPad",
       "localizedDescription": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedded Libretro cores, MeloNX, Dolphin, ARMSX2 and RPCS3 runtimes, JIT workflows and support for user-supplied firmware, keys and BIOS.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/images/settings.png"
       ],
       "tintColor": "#50DD8B",
       "versions": [
@@ -1245,11 +1245,11 @@
       "developerName": "seanhowarthdev",
       "subtitle": "Choose, test and move your iPhone's reported location",
       "localizedDescription": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or newer, and guided LocalDevVPN-compatible sessions for Wi-Fi and mobile data.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/welcome.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/fixed-location.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/walking-preview.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/welcome.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/fixed-location.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/walking-preview.png"
       ],
       "tintColor": "#1090F0",
       "versions": [
@@ -1269,12 +1269,12 @@
       "developerName": "ekomlenovic",
       "subtitle": "Slide the cars, free the red one.",
       "localizedDescription": "A free sliding-block traffic puzzle: slide the cars and trucks along their lanes to drive the red car out. 700+ campaign levels, daily and weekly challenges, a level creator and optional self-hosted multiplayer — no ads, no in-app purchases, no tracking.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RushHours/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/gameplay.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/map.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/daily.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/creator.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RushHours/images/gameplay.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RushHours/images/map.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RushHours/images/daily.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RushHours/images/creator.png"
       ],
       "tintColor": "#E5A019",
       "versions": [
@@ -1294,11 +1294,11 @@
       "developerName": "donbytyqi",
       "subtitle": "Torrent streaming client",
       "localizedDescription": "Torrent streaming client for iOS, iPadOS, tvOS and Mac (Catalyst), written in SwiftUI. Streams come from Stremio-compatible addons and play through a vendored libtorrent engine feeding VLC.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/search.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/profile.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/search.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/profile.png"
       ],
       "tintColor": "#E0E000",
       "versions": [
@@ -1318,11 +1318,11 @@
       "developerName": "SideStore Team",
       "subtitle": "Untethered alternative app store for iOS",
       "localizedDescription": "SideStore is an untethered, community-driven alternative app store for non-jailbroken iOS devices. It resigns and installs .ipa files with your personal Apple ID and refreshes them in the background, so sideloading no longer requires AltServer.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/apps.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/browse.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/news.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/apps.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/browse.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/news.png"
       ],
       "tintColor": "#A405FA",
       "versions": [
@@ -1342,11 +1342,11 @@
       "developerName": "akinal5765-byte",
       "subtitle": "Native film and print simulation for iPhone and iPad",
       "localizedDescription": "Take a photograph through camera input, film, development, print and scan. Choose film and paper, then shape the image with exposure, development contrast, filtration and physical frame size, with grain, halation and film edges formed in the same imaging pipeline.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Silverphase/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/canvas.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/panel.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/materials.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Silverphase/images/canvas.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Silverphase/images/panel.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Silverphase/images/materials.png"
       ],
       "tintColor": "#FF9F0A",
       "versions": [
@@ -1366,9 +1366,9 @@
       "developerName": "ishtiaq156",
       "subtitle": "Your Mac's activity, at a glance",
       "localizedDescription": "View your Mac's system activity on iPhone over a local encrypted connection. A native, local-first system monitor with a lightweight Mac companion and a mobile dashboard.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Stats/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/images/link.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Stats/images/link.jpeg"
       ],
       "tintColor": "#2090F0",
       "versions": [
@@ -1388,11 +1388,11 @@
       "developerName": "StikDebug",
       "subtitle": "On-device JIT enabler and device toolbox.",
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: requires LocalDevVPN and cannot be used inside LiveContainer to enable JIT for that same LiveContainer.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/StikDebug/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/scripts.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/StikDebug/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/StikDebug/images/scripts.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/StikDebug/images/settings.png"
       ],
       "tintColor": "#3B86F7",
       "versions": [
@@ -1412,11 +1412,11 @@
       "developerName": "infinityf4p",
       "subtitle": "基于 SwiftUI 的第三方百度贴吧客户端",
       "localizedDescription": "原生 SwiftUI 构建的非官方贴吧 iOS 客户端。未登录访客即可浏览首页推荐、进吧与吧内列表、帖子详情与楼中楼、搜索、图片缩放与视频播放；登录后支持消息、关注与粉丝、收藏帖子（与官方客户端同步）、每日签到、点赞与发帖回复。另有关键词/用户/贴吧屏蔽、浏览历史与阅读位置恢复、iPad 双栏布局，以及 `tiebapure://` 深链接。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/TiebaPure/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/thread.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/search.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/TiebaPure/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/TiebaPure/images/thread.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/TiebaPure/images/search.png"
       ],
       "tintColor": "#708070",
       "versions": [
@@ -1436,10 +1436,10 @@
       "developerName": "Suwayomi",
       "subtitle": "Native manga & manhwa reader for Suwayomi-Server",
       "localizedDescription": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-device catalog, a rebuilt continuous-scroll webtoon reader, incognito mode, and 13 built-in themes.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Suwayomi-Tsumiru/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/list.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/update.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Suwayomi-Tsumiru/images/list.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Suwayomi-Tsumiru/images/update.jpg"
       ],
       "tintColor": "#7c7bff",
       "versions": [
@@ -1459,11 +1459,11 @@
       "developerName": "osy",
       "subtitle": "Virtual machines for iOS",
       "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\nMore information at https://getutm.app/\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/UTM/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/settings.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/display.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/UTM/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/UTM/images/settings.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/UTM/images/display.png"
       ],
       "tintColor": "#1a2cc2",
       "versions": [
@@ -1483,11 +1483,11 @@
       "developerName": "CyrilPeng",
       "subtitle": "跨平台漫画阅读器",
       "localizedDescription": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Venera-Next/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/home.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/explorer.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/search.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Venera-Next/images/home.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Venera-Next/images/explorer.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Venera-Next/images/search.jpg"
       ],
       "tintColor": "#2090E0",
       "versions": [
@@ -1508,9 +1508,9 @@
       "developerName": "kolbicz",
       "subtitle": "File manager for iOS 26 and 27 (worse_query)",
       "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. Browse other apps' containers, edit plists, hex and SQLite databases, and back up, restore or clear app data without a jailbreak or kernel exploit.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQFiles/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/images/home.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQFiles/images/home.jpeg"
       ],
       "tintColor": "#1E8FC7",
       "versions": [
@@ -1530,11 +1530,11 @@
       "developerName": "MchinaMd57764",
       "subtitle": "File browser and maintenance panel for your own app containers",
       "localizedDescription": "An iOS toolkit built on an App Group container-query primitive: browse, clean and inspect your own app data containers without a jailbreak. Includes a file browser, cache scan, device info, a MobileGestalt cache panel and data lenses, with a bilingual UI and iPhone/iPad layouts.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQToolkit/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/files.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/settings.jpeg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/tweaks.jpeg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQToolkit/images/files.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQToolkit/images/settings.jpeg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQToolkit/images/tweaks.jpeg"
       ],
       "tintColor": "#6090D0",
       "versions": [
@@ -1554,10 +1554,10 @@
       "developerName": "alibusut",
       "subtitle": "YouTube mod with customizable tweaks",
       "localizedDescription": "YouPro mod of YouTube for iOS. Includes no ads, background playback, downloads, iSponsorBlock, PiP, and a host of customizable tweaks.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/YouProEXTRA/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/list.jpg",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/play.jpg"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/YouProEXTRA/images/list.jpg",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/YouProEXTRA/images/play.jpg"
       ],
       "tintColor": "#FF0000",
       "versions": [
@@ -1578,11 +1578,11 @@
       "developerName": "huamurui",
       "subtitle": "轻量、纯净的第三方知乎客户端",
       "localizedDescription": "基于 React Native (Expo) 构建的轻量级第三方知乎客户端，无广告，支持多账号切换、游客模式、全局主题色自定义与深色模式，可查看热榜、推荐、回答、文章、想法与评论区，并支持从 GitHub Releases 自动更新。",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ZhihuMinusMinus/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/home.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/detail.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/hot.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ZhihuMinusMinus/images/home.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ZhihuMinusMinus/images/detail.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ZhihuMinusMinus/images/hot.png"
       ],
       "tintColor": "#0084ff",
       "versions": [
@@ -1605,7 +1605,7 @@
       "caption": "Stats 0.3.6 is available.",
       "date": "2026-11-13T05:37:32Z",
       "tintColor": "#2090F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Stats/images/news.png",
       "notify": true,
       "url": "https://github.com/ishtiaq156/stats/releases/tag/v0.3.12"
     },
@@ -1616,7 +1616,7 @@
       "caption": "ARMSX2 2.6.0-nightly.20261113.0426 is available.",
       "date": "2026-11-13T04:53:50Z",
       "tintColor": "#3CAEFF",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ARMSX2/images/news.png",
       "notify": true,
       "url": "https://github.com/ARMSX2/ARMSX2/releases/tag/nightly-20261113"
     },
@@ -1627,7 +1627,7 @@
       "caption": "MoviePilotLite 1.3.3 is available.",
       "date": "2026-11-13T04:41:44Z",
       "tintColor": "#8050F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilotLite/images/news.png",
       "notify": true,
       "url": "https://github.com/singleton-altman/MoviePilotLite/releases/tag/release-v1.3.3-2026-11-13"
     },
@@ -1638,7 +1638,7 @@
       "caption": "HermesEnabler 1.0 is available.",
       "date": "2026-11-13T04:21:43Z",
       "tintColor": "#70C0F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/HermesEnabler/images/news.png",
       "notify": true,
       "url": "https://github.com/pookjw/HermesEnabler/releases/tag/1.5.4"
     },
@@ -1649,7 +1649,7 @@
       "caption": "Kumone 0.3.34 is available.",
       "date": "2026-11-12T20:52:06Z",
       "tintColor": "#EC4949",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kumone/images/news.png",
       "notify": true,
       "url": "https://github.com/missuo/kumone/releases/tag/v0.3.34"
     },
@@ -1660,7 +1660,7 @@
       "caption": "WQ Files 0.9.5 is available.",
       "date": "2026-11-12T19:33:26Z",
       "tintColor": "#1E8FC7",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQFiles/images/news.png",
       "notify": true,
       "url": "https://github.com/kolbicz/WQFiles/releases/tag/v0.9.5"
     },
@@ -1671,7 +1671,7 @@
       "caption": "GestaltX 1.0.7 is available.",
       "date": "2026-11-12T17:14:29Z",
       "tintColor": "#007AFF",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/GestaltX/images/news.png",
       "notify": true,
       "url": "https://github.com/huamidev/GestaltX/releases/tag/v1.0.7"
     },
@@ -1682,7 +1682,7 @@
       "caption": "Erosion-CN 0.9.1 is available.",
       "date": "2026-11-12T13:06:38Z",
       "tintColor": "#D07030",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/news.png",
       "notify": true,
       "url": "https://github.com/Kianuni/Erosion-CN/releases/tag/v0.9.1"
     },
@@ -1693,7 +1693,7 @@
       "caption": "iPadn 2.0.0 is available.",
       "date": "2026-11-12T10:41:39Z",
       "tintColor": "#111111",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iPadn/images/news.png",
       "notify": true,
       "url": "https://github.com/mengangs/ipadn/releases/tag/v2.0.0"
     },
@@ -1704,7 +1704,7 @@
       "caption": "Kazumi 2.4.4 is available.",
       "date": "2026-11-12T10:27:44Z",
       "tintColor": "#4CAF50",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi/images/news.png",
       "notify": true,
       "url": "https://github.com/Predidit/Kazumi/releases/tag/2.4.4"
     },
@@ -1715,7 +1715,7 @@
       "caption": "Kazumi-Swift 3.0.5 is available.",
       "date": "2026-11-12T05:41:30Z",
       "tintColor": "#45A992",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Kazumi-Swift/images/news.png",
       "notify": true,
       "url": "https://github.com/LinkPass888/Kazumi-Swift/releases/tag/3.0.5"
     },
@@ -1726,7 +1726,7 @@
       "caption": "WQToolkit 1.0 is available.",
       "date": "2026-11-11T22:59:56Z",
       "tintColor": "#6090D0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/WQToolkit/images/news.png",
       "notify": true,
       "url": "https://github.com/MchinaMd57764/WQToolkit/releases/tag/v1.0"
     },
@@ -1737,7 +1737,7 @@
       "caption": "BCD 0.1.653 is available.",
       "date": "2026-11-11T11:52:43Z",
       "tintColor": "#F070F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/BCD/images/news.png",
       "notify": true,
       "url": "https://github.com/thebcd69/bcd-games/releases/tag/v0.1.653"
     },
@@ -1748,7 +1748,7 @@
       "caption": "RewindBox 0.0.11 is available.",
       "date": "2026-11-10T19:41:55Z",
       "tintColor": "#50DD8B",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/images/news.png",
       "notify": true,
       "url": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.11"
     },
@@ -1759,7 +1759,7 @@
       "caption": "Rush Hours 2.2.2 is available.",
       "date": "2026-11-10T17:40:40Z",
       "tintColor": "#E5A019",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RushHours/images/news.png",
       "notify": true,
       "url": "https://github.com/ekomlenovic/rush_hour_ios_android/releases/tag/v2.2.2-b70"
     },
@@ -1770,7 +1770,7 @@
       "caption": "MoviePilot 1.2.2 is available.",
       "date": "2026-11-09T13:38:44Z",
       "tintColor": "#8844F6",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MoviePilot-App/images/news.png",
       "notify": true,
       "url": "https://github.com/jxxghp/MoviePilot-App/releases/tag/v1.2.2"
     },
@@ -1781,7 +1781,7 @@
       "caption": "StikDebug 3.2.2 is available.",
       "date": "2026-11-08T22:05:57Z",
       "tintColor": "#3B86F7",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/StikDebug/images/news.png",
       "notify": true,
       "url": "https://github.com/StikDebug/StikDebug/releases/tag/3.2.2"
     },
@@ -1792,7 +1792,7 @@
       "caption": "YouProEXTRA 21.45.4 is available.",
       "date": "2026-11-08T21:14:40Z",
       "tintColor": "#FF0000",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/YouProEXTRA/images/news.png",
       "notify": true,
       "url": "https://github.com/mrdrvt99/YouProEXTRA/releases/tag/youproextra-ipa2"
     },
@@ -1803,7 +1803,7 @@
       "caption": "LiveContainer+SideStore 3.8.13 is available.",
       "date": "2026-11-08T09:11:51Z",
       "tintColor": "#0784FC",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/news.png",
       "notify": true,
       "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly"
     },
@@ -1814,7 +1814,7 @@
       "caption": "LSX4 128.9934 is available.",
       "date": "2026-11-08T00:33:06Z",
       "tintColor": "#C09050",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LSX4/images/news.png",
       "notify": true,
       "url": "https://github.com/lpfoj/lsx4/releases/tag/ios-jit-128.9934"
     },
@@ -1825,7 +1825,7 @@
       "caption": "Tsumiru 1.6.5 is available.",
       "date": "2026-11-07T23:44:29Z",
       "tintColor": "#7c7bff",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Suwayomi-Tsumiru/images/news.png",
       "notify": true,
       "url": "https://github.com/Suwayomi/Suwayomi-Tsumiru/releases/tag/v1.6.5"
     },
@@ -1836,7 +1836,7 @@
       "caption": "VeneraNext 1.18.3 is available.",
       "date": "2026-11-07T18:10:18Z",
       "tintColor": "#2090E0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Venera-Next/images/news.png",
       "notify": true,
       "url": "https://github.com/CyrilPeng/Venera-Next/releases/tag/v1.18.3"
     },
@@ -1847,7 +1847,7 @@
       "caption": "MiniWatts 1.7.0 is available.",
       "date": "2026-11-07T08:08:32Z",
       "tintColor": "#30E0F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MiniWatts/images/news.png",
       "notify": true,
       "url": "https://github.com/ResistanceTo/MiniWatts/releases/tag/v1.7.0"
     },
@@ -1858,7 +1858,7 @@
       "caption": "ZhihuMinusMinus 0.9.10 is available.",
       "date": "2026-11-06T14:01:41Z",
       "tintColor": "#0084ff",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ZhihuMinusMinus/images/news.png",
       "notify": true,
       "url": "https://github.com/huamurui/zhihu-minus-minus/releases/tag/v0.9.10"
     },
@@ -1869,7 +1869,7 @@
       "caption": "iDeck 0.1.3 is available.",
       "date": "2026-11-06T05:45:57Z",
       "tintColor": "#50D0F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iDeck/images/news.png",
       "notify": true,
       "url": "https://github.com/kuscholar/iDeck/releases/tag/v0.1.3-alpha.6"
     },
@@ -1880,7 +1880,7 @@
       "caption": "Mornye 5.3.1 is available.",
       "date": "2026-11-05T10:34:12Z",
       "tintColor": "#1E4E4F",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mornye/images/news.png",
       "notify": true,
       "url": "https://github.com/mornyeapp/Mornye/releases/tag/v5.3.1"
     },
@@ -1891,7 +1891,7 @@
       "caption": "AniBaka 5.2.4 is available.",
       "date": "2026-11-05T04:35:12Z",
       "tintColor": "#0077B6",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AniBaka/images/news.png",
       "notify": true,
       "url": "https://github.com/AniBakaBaka/AniBaka/releases/tag/5.2.4+1101"
     },
@@ -1902,7 +1902,7 @@
       "caption": "Husk 3.4 is available.",
       "date": "2026-11-05T03:33:53Z",
       "tintColor": "#5949E5",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/images/news.png",
       "notify": true,
       "url": "https://github.com/Leviidev/Husk/releases/tag/3.4"
     },
@@ -1913,7 +1913,7 @@
       "caption": "Madeira 0.2.0 is available.",
       "date": "2026-11-04T03:29:04Z",
       "tintColor": "#7B68EE",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Madeira/images/news.png",
       "notify": true,
       "url": "https://github.com/willfaust/Madeira/releases/tag/v0.2.0"
     },
@@ -1924,7 +1924,7 @@
       "caption": "PiliPlus 2.2.0 is available.",
       "date": "2026-11-03T07:43:02Z",
       "tintColor": "#73b480",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PiliPlus/images/news.png",
       "notify": true,
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.2.0.2"
     },
@@ -1935,7 +1935,7 @@
       "caption": "AnimeFlow 2.6.7 is available.",
       "date": "2026-11-02T19:29:02Z",
       "tintColor": "#124EB3",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AnimeFlow/images/news.png",
       "notify": true,
       "url": "https://github.com/openAnimeFlow/AnimeFlow/releases/tag/v2.6.7"
     },
@@ -1946,7 +1946,7 @@
       "caption": "Silverphase 1.1.1 is available.",
       "date": "2026-11-02T16:14:09Z",
       "tintColor": "#FF9F0A",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Silverphase/images/news.png",
       "notify": true,
       "url": "https://github.com/akinal5765-byte/Silverphase/releases/tag/v1.1.1"
     },
@@ -1957,7 +1957,7 @@
       "caption": "Playport 0.5.0 is available.",
       "date": "2026-11-02T10:13:17Z",
       "tintColor": "#F5B544",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Playport/images/news.png",
       "notify": true,
       "url": "https://github.com/playportdev/playport/releases/tag/v0.5.0"
     },
@@ -1968,7 +1968,7 @@
       "caption": "ManicEMU 2.0.2 is available.",
       "date": "2026-11-02T08:03:58Z",
       "tintColor": "#F02040",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/ManicEMU/images/news.png",
       "notify": true,
       "url": "https://github.com/Manic-EMU/ManicEMU/releases/tag/v2.0.2"
     },
@@ -1979,7 +1979,7 @@
       "caption": "Mangayomi 0.9.95 is available.",
       "date": "2026-11-01T15:17:25Z",
       "tintColor": "#EF4444",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Mangayomi/images/news.png",
       "notify": true,
       "url": "https://github.com/kodjodevf/mangayomi/releases/tag/v0.9.95"
     },
@@ -1990,7 +1990,7 @@
       "caption": "MeloX 1.4.1 is available.",
       "date": "2026-10-30T13:43:14Z",
       "tintColor": "#E01F2D",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/MeloX/images/news.png",
       "notify": true,
       "url": "https://github.com/youshen2/MeloX/releases/tag/v1.4.1"
     },
@@ -2001,7 +2001,7 @@
       "caption": "Apollo for Reddit - GLASS 4.0.1 is available.",
       "date": "2026-10-30T01:24:25Z",
       "tintColor": "#6050F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Apollo-Reborn/images/news.png",
       "notify": true,
       "url": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_4.0.1"
     },
@@ -2012,7 +2012,7 @@
       "caption": "LinuxRunner 1.0.1 is available.",
       "date": "2026-10-27T07:30:48Z",
       "tintColor": "#60B0F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/news.png",
       "notify": true,
       "url": "https://github.com/mxhm11cr/LinuxRunner/releases/tag/v1.0.1"
     },
@@ -2023,7 +2023,7 @@
       "caption": "Animeko 6.4.0 is available.",
       "date": "2026-10-24T04:52:28Z",
       "tintColor": "#0050A0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Animeko/images/news.png",
       "notify": true,
       "url": "https://github.com/open-ani/animeko/releases/tag/v6.4.0"
     },
@@ -2034,7 +2034,7 @@
       "caption": "Roam Control 0.9.9 is available.",
       "date": "2026-10-20T19:33:03Z",
       "tintColor": "#1090F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Roam-Control/images/news.png",
       "notify": true,
       "url": "https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9"
     },
@@ -2045,7 +2045,7 @@
       "caption": "Asspp 4.2.2 is available.",
       "date": "2026-10-20T03:08:48Z",
       "tintColor": "#3060D0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/news.png",
       "notify": true,
       "url": "https://github.com/Lakr233/Asspp/releases/tag/4.2.2"
     },
@@ -2056,7 +2056,7 @@
       "caption": "Pixiv-SwiftUI 0.16.3 is available.",
       "date": "2026-10-19T14:07:18Z",
       "tintColor": "#13A1FD",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Pixiv-SwiftUI/images/news.png",
       "notify": true,
       "url": "https://github.com/Eslzzyl/Pixiv-SwiftUI/releases/tag/v0.16.3"
     },
@@ -2067,7 +2067,7 @@
       "caption": "Musly 2.0.3 is available.",
       "date": "2026-10-18T18:19:33Z",
       "tintColor": "#FA243C",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Musly/images/news.png",
       "notify": true,
       "url": "https://github.com/dddevid/Musly/releases/tag/v2.0.3"
     },
@@ -2078,7 +2078,7 @@
       "caption": "LightNovelShelf 1.13.2 is available.",
       "date": "2026-10-18T10:47:40Z",
       "tintColor": "#4E4592",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/news.png",
       "notify": true,
       "url": "https://github.com/LightNovelShelf/Flutter/releases/tag/v1.13.2"
     },
@@ -2089,7 +2089,7 @@
       "caption": "UTM 5.0.8 is available.",
       "date": "2026-10-17T02:44:56Z",
       "tintColor": "#1a2cc2",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/UTM/images/news.png",
       "notify": true,
       "url": "https://github.com/utmapp/UTM/releases/tag/v5.0.8"
     },
@@ -2100,7 +2100,7 @@
       "caption": "Aidoku 0.9 is available.",
       "date": "2026-10-16T22:25:27Z",
       "tintColor": "#FF375F",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Aidoku/images/news.png",
       "notify": true,
       "url": "https://github.com/Aidoku/Aidoku/releases/tag/v0.9-4"
     },
@@ -2111,7 +2111,7 @@
       "caption": "Doer 1.8.6 is available.",
       "date": "2026-10-10T08:03:04Z",
       "tintColor": "#4080E0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/news.png",
       "notify": true,
       "url": "https://github.com/moliango/doer/releases/tag/v1.8.6"
     },
@@ -2122,7 +2122,7 @@
       "caption": "TiebaPure 1.4.15 is available.",
       "date": "2026-10-10T06:07:37Z",
       "tintColor": "#708070",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/TiebaPure/images/news.png",
       "notify": true,
       "url": "https://github.com/infinityf4p/TiebaPure-iOS/releases/tag/v1.4.15"
     },
@@ -2133,7 +2133,7 @@
       "caption": "PureLive 3.1.19 is available.",
       "date": "2026-10-10T04:32:55Z",
       "tintColor": "#50B0F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PureLive/images/news.png",
       "notify": true,
       "url": "https://github.com/liuchuancong/pure_live/releases/tag/v3.1.19"
     },
@@ -2144,7 +2144,7 @@
       "caption": "OpenParsec 1.4.0 is available.",
       "date": "2026-10-08T16:07:29Z",
       "tintColor": "#BB01F0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/OpenParsec/images/news.png",
       "notify": true,
       "url": "https://github.com/hugeBlack/OpenParsec/releases/tag/1.4.0"
     },
@@ -2155,7 +2155,7 @@
       "caption": "AirCard-iOS 1.3.2 is available.",
       "date": "2026-10-04T12:22:53Z",
       "tintColor": "#5020E0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AirCard/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AirCard/images/news.png",
       "notify": true,
       "url": "https://github.com/Mak5er/AirCard-iOS/releases/tag/v1.3.2"
     },
@@ -2166,7 +2166,7 @@
       "caption": "Iridium 0.2.0 is available.",
       "date": "2026-10-04T02:20:31Z",
       "tintColor": "#1C1C1E",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Iridium/images/news.png",
       "notify": true,
       "url": "https://github.com/intraducine/iridium/releases/tag/v0.2.0"
     },
@@ -2177,7 +2177,7 @@
       "caption": "AltStore 2.3.1 is available.",
       "date": "2026-09-30T20:16:23Z",
       "tintColor": "#018084",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/news.png",
       "notify": true,
       "url": "https://github.com/altstoreio/AltStore/releases/tag/v2.3"
     },
@@ -2188,7 +2188,7 @@
       "caption": "Orchard 0.2 is available.",
       "date": "2026-09-25T16:12:05Z",
       "tintColor": "#F0C060",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Orchard/images/news.png",
       "notify": true,
       "url": "https://github.com/MakrSas/orchard-ios/releases/tag/v0.2"
     },
@@ -2199,7 +2199,7 @@
       "caption": "SceneBox 1.0.4 is available.",
       "date": "2026-09-23T15:44:54Z",
       "tintColor": "#E0E000",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SceneBox/images/news.png",
       "notify": true,
       "url": "https://github.com/donbytyqi/scenebox/releases/tag/v1.0.4"
     },
@@ -2210,7 +2210,7 @@
       "caption": "SideStore 0.7.0-20260911.328+6032424a is available.",
       "date": "2026-09-15T11:12:49Z",
       "tintColor": "#A405FA",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/news.png",
       "notify": true,
       "url": "https://github.com/SideStore/SideStore/releases/tag/0.7.0-alpha"
     },
@@ -2221,7 +2221,7 @@
       "caption": "Fathom 1.0.0 is available.",
       "date": "2026-09-14T23:13:23Z",
       "tintColor": "#68D8D8",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Fathom/images/news.png",
       "notify": true,
       "url": "https://github.com/Leviidev/Fathom/releases/tag/v1.0.0"
     },
@@ -2232,7 +2232,7 @@
       "caption": "Opaline 1.12.0 is available.",
       "date": "2026-09-10T02:02:27Z",
       "tintColor": "#FF0000",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/news.png",
       "notify": true,
       "url": "https://github.com/verback2308/Opaline/releases/tag/1.12.0"
     },
@@ -2243,7 +2243,7 @@
       "caption": "PSX3IOS 0.2.7-beta is available.",
       "date": "2026-09-01T12:12:58Z",
       "tintColor": "#5080D0",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/PSX3IOS/images/news.png",
       "notify": true,
       "url": "https://github.com/xmiguel911x/PSX3IOS/releases/tag/v0.2.7-beta"
     },
@@ -2254,7 +2254,7 @@
       "caption": "DLiPA 1.4 is available.",
       "date": "2026-08-03T08:46:29Z",
       "tintColor": "#27A0F4",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/news.png",
       "notify": true,
       "url": "https://github.com/AhmedBafkir/DLiPA/releases/tag/v1.4"
     },
@@ -2265,7 +2265,7 @@
       "caption": "EhPanda 2.8.1 is available.",
       "date": "2026-07-20T12:12:04Z",
       "tintColor": "#0f766e",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/EhPanda/images/news.png",
       "notify": true,
       "url": "https://github.com/EhPanda-Team/EhPanda/releases/tag/v2.8.1"
     },
@@ -2276,7 +2276,7 @@
       "caption": "iTorrent 2.2.0-1 is available.",
       "date": "2026-07-19T09:59:41Z",
       "tintColor": "#F19E69",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/iTorrent/images/news.png",
       "notify": true,
       "url": "https://github.com/XITRIX/iTorrent/releases/tag/v2.2.0-1"
     },
@@ -2287,7 +2287,7 @@
       "caption": "LiveContainer+SideStore 3.8.0 is available.",
       "date": "2026-07-17T07:44:20Z",
       "tintColor": "#0784FC",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LiveContainer+SideStore/images/news.png",
       "notify": true,
       "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.8.0"
     },
@@ -2298,7 +2298,7 @@
       "caption": "Feather 2.9.0 is available.",
       "date": "2026-07-05T02:11:53Z",
       "tintColor": "#848ef9",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Feather/images/news.png",
       "notify": true,
       "url": "https://github.com/claration/feather/releases/tag/v2.9.0"
     },
@@ -2309,7 +2309,7 @@
       "caption": "DukeX 1.0.2 is available.",
       "date": "2026-06-30T12:21:27Z",
       "tintColor": "#8FCA39",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DukeX/images/news.png",
       "notify": true,
       "url": "https://github.com/MaftyManicEMU/DukeX/releases/tag/v1.0.2"
     },
@@ -2320,7 +2320,7 @@
       "caption": "DolphiniOS 5.0.0b6 is available.",
       "date": "2026-06-20T07:01:54Z",
       "tintColor": "#E0B030",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DolphiniOS/images/news.png",
       "notify": true,
       "url": "https://github.com/OatmealDome/dolphin-ios/releases/tag/v5.0.0b6"
     },
@@ -2331,7 +2331,7 @@
       "caption": "KMusic 2.3.0 is available.",
       "date": "2026-03-12T08:39:59Z",
       "tintColor": "#F03050",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/KMusic/images/news.png",
       "notify": true,
       "url": "https://github.com/Mac-XK/KMusic/releases/tag/歌一刀2.3.0"
     }

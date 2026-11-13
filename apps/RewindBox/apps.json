@@ -2,7 +2,7 @@
   "name": "RewindBox",
   "subtitle": "RewindBox AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for RewindBox",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/icon.png",
   "website": "https://github.com/TarbleFR/RewindBox",
   "tintColor": "#50DD8B",
   "apps": [
@@ -12,10 +12,10 @@
       "developerName": "TarbleFR",
       "subtitle": "Emulation frontend for iPhone and iPad",
       "localizedDescription": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedded Libretro cores, MeloNX, Dolphin, ARMSX2 and RPCS3 runtimes, JIT workflows and support for user-supplied firmware, keys and BIOS.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/settings.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/images/home.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/images/settings.png"
       ],
       "tintColor": "#50DD8B",
       "versions": [
@@ -38,7 +38,7 @@
       "caption": "RewindBox 0.0.11 is available.",
       "date": "2026-11-10T19:41:55Z",
       "tintColor": "#50DD8B",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/RewindBox/images/news.png",
       "notify": true,
       "url": "https://github.com/TarbleFR/RewindBox/releases/tag/0.0.11"
     }

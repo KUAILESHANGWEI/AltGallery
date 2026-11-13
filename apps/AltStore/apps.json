@@ -2,7 +2,7 @@
   "name": "AltStore",
   "subtitle": "AltStore AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for AltStore",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/icon.png",
   "website": "https://github.com/altstoreio/AltStore",
   "tintColor": "#018084",
   "apps": [
@@ -12,14 +12,14 @@
       "developerName": "Riley & Shane",
       "subtitle": "Sideload non-notarized apps with AltServer.",
       "localizedDescription": "AltStore Classic allows you to sideload non-notarized .ipa files with AltServer on a Mac or PC.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/myapps.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/app-detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/browse.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/sources.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/add-source.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/settings.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/myapps.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/app-detail.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/browse.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/sources.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/add-source.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/settings.png"
       ],
       "tintColor": "#018084",
       "versions": [
@@ -42,7 +42,7 @@
       "caption": "AltStore 2.3.1 is available.",
       "date": "2026-09-30T20:16:23Z",
       "tintColor": "#018084",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/AltStore/images/news.png",
       "notify": true,
       "url": "https://github.com/altstoreio/AltStore/releases/tag/v2.3"
     }

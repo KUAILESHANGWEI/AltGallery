@@ -2,7 +2,7 @@
   "name": "LightNovelShelf",
   "subtitle": "LightNovelShelf AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for LightNovelShelf",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/icon.png",
   "website": "https://github.com/LightNovelShelf/Flutter",
   "tintColor": "#4E4592",
   "apps": [
@@ -12,10 +12,10 @@
       "developerName": "LightNovelShelf",
       "subtitle": "轻书架官方 Flutter 客户端",
       "localizedDescription": "轻书架官方 Flutter 客户端，面向 iOS、iPadOS 与 Android，支持书架管理、在线阅读、翻页动画、双页阅读与自动更新。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/home.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/community.jpeg"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/home.jpeg",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/community.jpeg"
       ],
       "tintColor": "#4E4592",
       "versions": [
@@ -38,7 +38,7 @@
       "caption": "LightNovelShelf 1.13.2 is available.",
       "date": "2026-10-18T10:47:40Z",
       "tintColor": "#4E4592",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LightNovelShelf/images/news.png",
       "notify": true,
       "url": "https://github.com/LightNovelShelf/Flutter/releases/tag/v1.13.2"
     }

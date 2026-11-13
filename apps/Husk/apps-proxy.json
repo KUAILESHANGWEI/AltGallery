@@ -2,7 +2,7 @@
   "name": "Husk",
   "subtitle": "Husk AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for Husk",
-  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/icon.png",
   "website": "https://github.com/Leviidev/Husk",
   "tintColor": "#5949E5",
   "apps": [
@@ -12,10 +12,10 @@
       "developerName": "Leviidev",
       "subtitle": "Android app launcher for iOS",
       "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.",
-      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/icon.png",
       "screenshots": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/main.png",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/settings.png"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/images/main.png",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/images/settings.png"
       ],
       "tintColor": "#5949E5",
       "versions": [
@@ -38,7 +38,7 @@
       "caption": "Husk 3.4 is available.",
       "date": "2026-11-05T03:33:53Z",
       "tintColor": "#5949E5",
-      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/news.png",
+      "imageURL": "https://gh-proxy.com/https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Husk/images/news.png",
       "notify": true,
       "url": "https://github.com/Leviidev/Husk/releases/tag/3.4"
     }

@@ -8,7 +8,7 @@ repo = "verback2308/Opaline"
 name = "Opaline"
 subtitle = "Opaline AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for Opaline"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/icon.png"
 website = "https://github.com/verback2308/Opaline"
 tint_color = "#FF0000"
 
@@ -20,11 +20,11 @@ bundle_identifier = "com.verback.YTLite"
 developer_name = "verback2308"
 subtitle = "YouTube client for iOS 12+"
 description = "A lightweight YouTube client with SponsorBlock, Return YouTube Dislike, and up to 1080p playback. No ads, no tracking, no dependencies."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/home.jpg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/player.jpg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/channel.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/home.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/player.jpg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/channel.jpg",
 ]
 tint_color = "#FF0000"
 min_os_version = "12.0"
@@ -47,7 +47,7 @@ build_version_pattern = "_([0-9]+)\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Opaline/images/news.png"
 
 [output]
 path = "apps.json"

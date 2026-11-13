@@ -2,7 +2,7 @@
   "name": "Doer",
   "subtitle": "Doer AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for Doer",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/icon.png",
   "website": "https://github.com/moliango/doer",
   "tintColor": "#4080E0",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "moliango",
       "subtitle": "A native iOS client for Linux.do",
       "localizedDescription": "A native iOS client for Linux.do — UIKit + Swift, no SwiftUI in the main app.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/me.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/home.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/detail.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/me.png"
       ],
       "tintColor": "#4080E0",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "Doer 1.8.6 is available.",
       "date": "2026-10-10T08:03:04Z",
       "tintColor": "#4080E0",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Doer/images/news.png",
       "notify": true,
       "url": "https://github.com/moliango/doer/releases/tag/v1.8.6"
     }

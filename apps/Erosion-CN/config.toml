@@ -9,7 +9,7 @@ repo = "Kianuni/Erosion-CN"
 name = "Erosion-CN"
 subtitle = "Erosion-CN AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for Erosion-CN"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/icon.png"
 website = "https://github.com/Kianuni/Erosion-CN"
 tint_color = "#D07030"
 
@@ -19,11 +19,11 @@ bundle_identifier = "com.jbdotparty.Erosion"
 developer_name = "Kianuni"
 subtitle = "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱"
 description = "A Simplified-Chinese localization of the Erosion MobileGestalt toolbox, with hardened write and backup paths for system configuration on iOS / iPadOS 27.x, plus partial support for iOS / iPadOS 26.x. Needs at least one App Group entitlement when re-signing."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/home.jpeg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/tweaks.jpeg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/files.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/home.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/tweaks.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/files.jpeg",
 ]
 tint_color = "#D07030"
 min_os_version = "26.0"
@@ -38,7 +38,7 @@ asset_pattern = "Erosion_.*\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/news.png"
 
 [output]
 path = "apps.json"

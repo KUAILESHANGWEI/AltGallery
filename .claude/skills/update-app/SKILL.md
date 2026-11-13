@@ -118,7 +118,7 @@ which app was meant.
      hosted here). If there are none at all, warn at the end exactly as
      `/add-app` step 10 requires.
    - Copy assets into `apps/<NewName>/` and reference them through the
-     `bebound/AltGallery` raw URLs — never point `config.toml` at the source's
+     `KUAILESHANGWEI/AltGallery` raw URLs — never point `config.toml` at the source's
      remote URLs.
 
 4. **Update `config.toml`**
@@ -265,7 +265,7 @@ PY
    Replace the app's `###` heading and description line in **Available Apps**:
 
    ```html
-   ### <a href="https://github.com/<new-owner>/<repo>"><img src="https://raw.githubusercontent.com/bebound/AltGallery/master/apps/<NewName>/icon.png" alt="<display name> icon" width="24" align="top"> <display name></a>
+   ### <a href="https://github.com/<new-owner>/<repo>"><img src="https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/<NewName>/icon.png" alt="<display name> icon" width="24" align="top"> <display name></a>
    One-line description.
    ```
 

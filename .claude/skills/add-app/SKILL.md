@@ -71,7 +71,7 @@ change between apps.
         `com.example.*` in an existing `config.toml` means someone guessed.
       - Still download the icon/screenshots into `apps/<AppName>/` and point
         `icon_url` / `screenshots` at the
-        `raw.githubusercontent.com/bebound/AltGallery/...` URLs — **never** copy
+        `raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/...` URLs — **never** copy
         the source's remote asset URLs into `config.toml`; AltGallery hosts its
         own copies.
       - `localizedDescription` is often a release-note-style blob; shorten it
@@ -248,7 +248,7 @@ change between apps.
 9. **Update README** — add the app to **Available Apps**, icon inline before
    the name:
    ```html
-   ### <a href="https://github.com/owner/name"><img src="https://raw.githubusercontent.com/bebound/AltGallery/master/apps/<AppName>/icon.png" alt="<AppName> icon" width="24" align="top"> <AppName></a>
+   ### <a href="https://github.com/owner/name"><img src="https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/<AppName>/icon.png" alt="<AppName> icon" width="24" align="top"> <AppName></a>
    Short one-line description.
    ```
    ⚠️ Use `align="top"` on the icon — `align="center"` renders ~7px low on
@@ -283,7 +283,7 @@ change between apps.
 - [ ] ipa deleted afterwards
 - [ ] `apps/<AppName>/{config.toml, news.toml, icon.png, images/*}` all present
 - [ ] `icon.png` from the repo, or from the ipa via `tools/ipa_icon.py` when the repo has none — size checked, small size reported to the user
-- [ ] icon/screenshots hosted locally and referenced via `bebound/AltGallery` raw URLs (never the source's remote URLs)
+- [ ] icon/screenshots hosted locally and referenced via `KUAILESHANGWEI/AltGallery` raw URLs (never the source's remote URLs)
 - [ ] `apps.json` regenerated after the last config change; never hand-edited; gitignored (not committed)
 - [ ] `all-apps.json` NOT touched — CI workflow regenerates and commits it
 - [ ] `images/news.png` rendered; not auto-committed

@@ -2,7 +2,7 @@
   "name": "LinuxRunner",
   "subtitle": "LinuxRunner AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for LinuxRunner",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/icon.png",
   "website": "https://github.com/mxhm11cr/LinuxRunner",
   "tintColor": "#60B0F0",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "Leminos",
       "subtitle": "Run ARM64 Linux apps and desktops on iOS",
       "localizedDescription": "Run ARM64 Linux applications and desktop environments on iOS without a jailbreak, virtual machine, or JIT.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/terminal.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/settings.png"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/home.png",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/terminal.jpg",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/settings.png"
       ],
       "tintColor": "#60B0F0",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "LinuxRunner 1.0.1 is available.",
       "date": "2026-10-27T07:30:48Z",
       "tintColor": "#60B0F0",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/LinuxRunner/images/news.png",
       "notify": true,
       "url": "https://github.com/mxhm11cr/LinuxRunner/releases/tag/v1.0.1"
     }

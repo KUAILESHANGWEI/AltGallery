@@ -8,7 +8,7 @@ repo = "AhmedBafkir/DLiPA"
 name = "DLiPA"
 subtitle = "DLiPA AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for DLiPA"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/icon.png"
 website = "https://github.com/AhmedBafkir/DLiPA"
 tint_color = "#27A0F4"
 
@@ -18,11 +18,11 @@ bundle_identifier = "com.ahmedbafkir.dlipa"
 developer_name = "Ahmed Bafkir"
 subtitle = "Download, install and share App Store IPAs"
 description = "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and install or share it without a jailbreak."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/search.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/versions.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/downloads.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/search.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/versions.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/downloads.png",
 ]
 tint_color = "#27A0F4"
 min_os_version = "13.0"
@@ -38,7 +38,7 @@ asset_pattern = "^DLiPA_v.*\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/DLiPA/images/news.png"
 
 [output]
 path = "apps.json"

@@ -9,7 +9,7 @@ repo = "SideStore/SideStore"
 name = "SideStore"
 subtitle = "SideStore AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for SideStore"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/icon.png"
 website = "https://github.com/SideStore/SideStore"
 tint_color = "#A405FA"
 
@@ -19,11 +19,11 @@ bundle_identifier = "com.SideStore.SideStore"
 developer_name = "SideStore Team"
 subtitle = "Untethered alternative app store for iOS"
 description = "SideStore is an untethered, community-driven alternative app store for non-jailbroken iOS devices. It resigns and installs .ipa files with your personal Apple ID and refreshes them in the background, so sideloading no longer requires AltServer."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/apps.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/browse.png",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/news.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/apps.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/browse.png",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/news.png",
 ]
 tint_color = "#A405FA"
 min_os_version = "15.0"
@@ -40,7 +40,7 @@ asset_pattern = "SideStore\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/SideStore/images/news.png"
 
 [output]
 path = "apps.json"

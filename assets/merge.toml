@@ -11,8 +11,8 @@
 name = "AltGallery"
 subtitle = "Curated AltStore sources for IPA projects on GitHub"
 description = "AltStore sources generated from GitHub Releases by AltGallery"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/assets/icon.png"
-website = "https://github.com/bebound/AltGallery"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/assets/icon.png"
+website = "https://github.com/KUAILESHANGWEI/AltGallery"
 tint_color = "#3B82F6"
 
 [output]

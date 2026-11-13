@@ -8,7 +8,7 @@ repo = "Lakr233/Asspp"
 name = "Asspp"
 subtitle = "Asspp AltStore source by AltGallery & AltGen"
 description = "Auto-updated AltStore source for Asspp"
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/icon.png"
 website = "https://github.com/Lakr233/Asspp"
 tint_color = "#3060D0"
 
@@ -18,11 +18,11 @@ bundle_identifier = "wiki.qaq.Asspp"
 developer_name = "Lakr233"
 subtitle = "The ultimate multi-region App Store manager"
 description = "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable IPA library with older versions — no signing out of your device required.\n\nDownloads go through Apple's servers with your own Apple ID. Because the underlying protocol is the same one ipatool uses, a secondary or burner account is strongly recommended."
-icon_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.png"
+icon_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/icon.png"
 screenshots = [
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/search.jpeg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/app.jpeg",
-  "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/account.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/search.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/app.jpeg",
+  "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/account.jpeg",
 ]
 tint_color = "#3060D0"
 min_os_version = "17.0"
@@ -39,7 +39,7 @@ asset_pattern = "^Asspp\\.ipa$"
 [news]
 title_template = "{name} {version} · {date}"
 # shared promo image rendered by tools/render_news.py
-image_url = "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/news.png"
+image_url = "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Asspp/images/news.png"
 
 [output]
 path = "apps.json"

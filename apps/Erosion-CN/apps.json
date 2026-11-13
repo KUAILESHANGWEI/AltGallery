@@ -2,7 +2,7 @@
   "name": "Erosion-CN",
   "subtitle": "Erosion-CN AltStore source by AltGallery & AltGen",
   "description": "Auto-updated AltStore source for Erosion-CN",
-  "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/icon.png",
   "website": "https://github.com/Kianuni/Erosion-CN",
   "tintColor": "#D07030",
   "apps": [
@@ -12,11 +12,11 @@
       "developerName": "Kianuni",
       "subtitle": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱",
       "localizedDescription": "A Simplified-Chinese localization of the Erosion MobileGestalt toolbox, with hardened write and backup paths for system configuration on iOS / iPadOS 27.x, plus partial support for iOS / iPadOS 26.x. Needs at least one App Group entitlement when re-signing.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/icon.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/home.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/tweaks.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/files.jpeg"
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/home.jpeg",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/tweaks.jpeg",
+        "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/files.jpeg"
       ],
       "tintColor": "#D07030",
       "versions": [
@@ -39,7 +39,7 @@
       "caption": "Erosion-CN 0.9.1 is available.",
       "date": "2026-11-12T13:06:38Z",
       "tintColor": "#D07030",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/news.png",
+      "imageURL": "https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/apps/Erosion-CN/images/news.png",
       "notify": true,
       "url": "https://github.com/Kianuni/Erosion-CN/releases/tag/v0.9.1"
     }
