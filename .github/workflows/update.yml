@@ -57,10 +57,12 @@ jobs:
           git add -f all-apps.json all-apps-proxy.json apps/*/apps.json apps/*/apps-proxy.json
           git diff --cached --quiet || git commit -m 'chore: sync upstream and retain verified archives'
           git push origin HEAD:main
-          git push origin 'refs/remotes/upstream/*:refs/heads/archive/upstream/*'
+          if git for-each-ref refs/remotes/upstream/ | grep -q .; then
+            git push origin 'refs/remotes/upstream/*:refs/heads/archive/upstream/*'
+          fi
           git push origin --tags
       - name: Publish retained snapshot
         shell: bash
         run: |
           tag="catalog-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
-          gh release create "$tag" AltGallery-catalog.zip SHA256SUMS archive-manifest.json all-apps.json -R "$GITHUB_REPOSITORY" --target main --title "$tag" --notes 'Catalog snapshot and verified dependency archive. Private repositories require GitHub authentication.' --latest
+          gh release create "$tag" AltGallery-catalog.zip SHA256SUMS archive-manifest.json all-apps.json -R "$GITHUB_REPOSITORY" --target main --title "$tag" --notes 'Catalog snapshot and verified dependency archive. Public source and IPA archive.' --latest

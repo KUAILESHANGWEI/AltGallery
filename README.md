@@ -1,3 +1,13 @@
+## Independent archive
+
+[Add the combined source](https://altdirect.app/?url=https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/all-apps.json) · [Browse the catalog](https://KUAILESHANGWEI.github.io/AltGallery/) · [Catalog bundle](https://github.com/KUAILESHANGWEI/AltGallery/releases/latest) · [Retained IPAs](https://github.com/KUAILESHANGWEI/AltGallery/releases/tag/archive-assets)
+
+This repository is public by user choice. Source, artwork and IPA URLs use this repository. Sign IPAs with AltStore, SideStore or another compatible tool. Device and signing requirements follow each application's documentation. Individual device installation has not been tested.
+
+Scheduled sync merges upstream `master` every six hours, preserves local commits, regenerates sources and verifies archived downloads with SHA-256. Existing archives are retained. Content changes receive checksum-qualified filenames. Archived catalogs survive upstream unavailability. Merge conflicts stop sync while preserving existing commits for resolution and retry.
+
+Extract the catalog bundle and open `preview.html`. Artwork, source JSON and checksums are included. IPAs remain separate release assets.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/assets/icon.png" alt="AltGallery" width="120">
 </p>
@@ -8,7 +18,7 @@
 
 <p>Curated AltStore sources for IPA projects on GitHub. All sources are generated with <a href="https://github.com/bebound/AltGen">AltGen</a>. It can be used with <a href="https://github.com/altstoreio/Altstore">AltStore</a>, <a href="https://github.com/SideStore/SideStore">SideStore</a>, <a href="https://github.com/LiveContainer/LiveContainer">LiveContainer</a>, <a href="https://github.com/claration/Feather">Feather</a> or other compatible apps.</p>
 
-<p>Browse the AltGallery in your browser: <a href="https://github.com/KUAILESHANGWEI/AltGallery/releases/latest">altgallery.fromkk.com</a></p>
+<p>Browse the AltGallery in your browser: <a href="https://KUAILESHANGWEI.github.io/AltGallery/">KUAILESHANGWEI.github.io/AltGallery</a></p>
 
 <p align="center">
 <a href="https://altdirect.app/?url=https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/all-apps.json" target="_blank">

@@ -1,0 +1,428 @@
+{
+  "https://github.com/huamidev/GestaltX/releases/download/v1.0.7/GestaltX_1.0.7.ipa": {
+    "name": "7a1960331547-226f1a6ceb52-GestaltX_1.0.7.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/7a1960331547-226f1a6ceb52-GestaltX_1.0.7.ipa",
+    "sha256": "226f1a6ceb5267d6dcadbb5af228c1496bb4fd45c229857b9b2e19ca12ae5f72",
+    "size": 3563948
+  },
+  "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa": {
+    "name": "efba488bd881-8460c194f0b2-Non-Jailbroken.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/efba488bd881-8460c194f0b2-Non-Jailbroken.ipa",
+    "sha256": "8460c194f0b24ab3a15594e800e1533cb14e90e0aa51527b3609c7ac0f9745c2",
+    "size": 17963367
+  },
+  "https://github.com/hugeBlack/OpenParsec/releases/download/2.0.0/OpenParsec.ipa": {
+    "name": "3dfe96004cee-3407a4392082-OpenParsec.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/3dfe96004cee-3407a4392082-OpenParsec.ipa",
+    "sha256": "3407a4392082e3f5687e8f9b0435e64f473a2c3c908c94a515fa68e1c1b3660a",
+    "size": 4445097
+  },
+  "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa": {
+    "name": "488be83f7297-49aff0267546-AirCard-iOS.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/488be83f7297-49aff0267546-AirCard-iOS.ipa",
+    "sha256": "49aff0267546a2b27ad7eeef036c8af7f9b1d230fce0e92b24d7f6b97cfd7a86",
+    "size": 4638147
+  },
+  "https://github.com/ekomlenovic/rush_hour_ios_android/releases/download/v2.2.2-b70/rush-hours-unsigned.ipa": {
+    "name": "7f0e3d4430aa-a5c80e3a17fc-rush-hours-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/7f0e3d4430aa-a5c80e3a17fc-rush-hours-unsigned.ipa",
+    "sha256": "a5c80e3a17fc2b97a9de7e0666417edc219f79529dbf1ba200b99203bd5e18c5",
+    "size": 19091977
+  },
+  "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa": {
+    "name": "1b714689c057-a51a06be4f79-Asspp.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/1b714689c057-a51a06be4f79-Asspp.ipa",
+    "sha256": "a51a06be4f79ac1d1283701da87b45e2228f9fcc39ef4f88599f4abca986f388",
+    "size": 16458246
+  },
+  "https://github.com/MakrSas/orchard-ios/releases/download/v0.2/Orchard.ipa": {
+    "name": "d8c1eca6166d-e8ebd32c3259-Orchard.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/d8c1eca6166d-e8ebd32c3259-Orchard.ipa",
+    "sha256": "e8ebd32c325954d80dfaf0d3e1438cb1fc95bef040ee54edcd2d087ca46bbc81",
+    "size": 18477287
+  },
+  "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa": {
+    "name": "b2f751736301-211f1057c702-RoamControl-0.9.9-Build105.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/b2f751736301-211f1057c702-RoamControl-0.9.9-Build105.ipa",
+    "sha256": "211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e",
+    "size": 4627321
+  },
+  "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa": {
+    "name": "0aa07fdef005-e334f86e6cee-SideStore.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/0aa07fdef005-e334f86e6cee-SideStore.ipa",
+    "sha256": "e334f86e6ceeab2e0d886c07611246533f474bb18838cf13ebc09ed1f0d622b5",
+    "size": 27770821
+  },
+  "https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_ios_2.4.4_no_sign.ipa": {
+    "name": "2daa84ab7b14-88d1146bf466-Kazumi_ios_2.4.4_no_sign.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/2daa84ab7b14-88d1146bf466-Kazumi_ios_2.4.4_no_sign.ipa",
+    "sha256": "88d1146bf466a7dbbfd3a0649a8b36fb15a10e6186aca8388080c2e94747bfca",
+    "size": 30341213
+  },
+  "https://github.com/liuchuancong/pure_live/releases/download/v3.1.19/PureLive-3.1.19-4108-ios-arm64-trollstore.ipa": {
+    "name": "4b15368a827a-81f32db0a967-PureLive-3.1.19-4108-ios-arm64-trollstore.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/4b15368a827a-81f32db0a967-PureLive-3.1.19-4108-ios-arm64-trollstore.ipa",
+    "sha256": "81f32db0a967bb7687ca33c75272f04e9c56357104907050134b4043500a1691",
+    "size": 66858114
+  },
+  "https://github.com/claration/feather/releases/download/v2.9.0/Feather.ipa": {
+    "name": "306afee86845-833c57d3c4bf-Feather.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/306afee86845-833c57d3c4bf-Feather.ipa",
+    "sha256": "833c57d3c4bf4b4a9fe408be72e1c720cbb949f736a00286750f50e7915730ea",
+    "size": 14241853
+  },
+  "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.95/Mangayomi-v0.9.95-ios.ipa": {
+    "name": "af7e34fee644-da0fd7eb5989-Mangayomi-v0.9.95-ios.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/af7e34fee644-da0fd7eb5989-Mangayomi-v0.9.95-ios.ipa",
+    "sha256": "da0fd7eb5989dce528d6ba2a2b12ec4b6c43dec5e1e600cd9036085498a2cb96",
+    "size": 115450399
+  },
+  "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa": {
+    "name": "702225d5af54-473e28cda194-Aidoku.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/702225d5af54-473e28cda194-Aidoku.ipa",
+    "sha256": "473e28cda194e57434f2a9e3ad26abbc8f9c18784047eb0e931a51b47df8970c",
+    "size": 14753154
+  },
+  "https://github.com/pookjw/HermesEnabler/releases/download/1.5.4/HermesEnabler.ipa": {
+    "name": "4c38b3cbfd48-b8cf1cfaa129-HermesEnabler.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/4c38b3cbfd48-b8cf1cfaa129-HermesEnabler.ipa",
+    "sha256": "b8cf1cfaa129a61411fc0b7780fe85d2b2f8dab070d01eb8596cf45d883a43f9",
+    "size": 959386
+  },
+  "https://github.com/huamurui/zhihu-minus-minus/releases/download/v0.9.10/zhihu-minus-minus-v0.9.10-unsigned.ipa": {
+    "name": "c03026cc9c45-8884c6f59137-zhihu-minus-minus-v0.9.10-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/c03026cc9c45-8884c6f59137-zhihu-minus-minus-v0.9.10-unsigned.ipa",
+    "sha256": "8884c6f5913715d16b240241fb3ef33ad5d9b51cefaed689a755f332b43910c8",
+    "size": 14833319
+  },
+  "https://github.com/Kianuni/Erosion-CN/releases/download/v0.9.1/Erosion_v0.9.1_Bilingual.ipa": {
+    "name": "9945025011f2-32a538f9ffbb-Erosion_v0.9.1_Bilingual.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/9945025011f2-32a538f9ffbb-Erosion_v0.9.1_Bilingual.ipa",
+    "sha256": "32a538f9ffbb2e9c604c4a39f58b4491eb3731886ea439dff6b0bdefcb514c98",
+    "size": 6277874
+  },
+  "https://github.com/ishtiaq156/stats/releases/download/v0.3.12/Stats-v0.3.6-iOS.ipa": {
+    "name": "87fabba0591a-8ae6311f0091-Stats-v0.3.6-iOS.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/87fabba0591a-8ae6311f0091-Stats-v0.3.6-iOS.ipa",
+    "sha256": "8ae6311f0091bb7257f40de8db44ab258b431fafbc016d083be9b098418f072a",
+    "size": 2668322
+  },
+  "https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa": {
+    "name": "3353ced6e3f6-50457a89299b-iTorrent.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/3353ced6e3f6-50457a89299b-iTorrent.ipa",
+    "sha256": "50457a89299bd62836ca1eb1ae0a5adbe097454c58ce67605bbe6710c37193d7",
+    "size": 24288935
+  },
+  "https://github.com/mxhm11cr/LinuxRunner/releases/download/v1.0.1/LinuxRunner-1.0.1.ipa": {
+    "name": "dcc4a9790bca-c571c7ae1dd8-LinuxRunner-1.0.1.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/dcc4a9790bca-c571c7ae1dd8-LinuxRunner-1.0.1.ipa",
+    "sha256": "c571c7ae1dd8ab641930e513254866658dc94f0bee370f1d2623cd462f0fa2ca",
+    "size": 14646386
+  },
+  "https://github.com/mornyeapp/Mornye/releases/download/v5.3.1/Mornye-v5.3.1-ios-unsigned.ipa": {
+    "name": "d590691b5f47-ef635146157b-Mornye-v5.3.1-ios-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/d590691b5f47-ef635146157b-Mornye-v5.3.1-ios-unsigned.ipa",
+    "sha256": "ef635146157b3d2f957fd620390a0ded16812b287982c02fb56480ef00c10725",
+    "size": 38671004
+  },
+  "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa": {
+    "name": "cb7d3fa6df84-97dc0fd2202f-LiveContainer+SideStore.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/cb7d3fa6df84-97dc0fd2202f-LiveContainer%2BSideStore.ipa",
+    "sha256": "97dc0fd2202fd4460efcab389943b8d5fdbb4988efff76b116b92b84a4662425",
+    "size": 35403538
+  },
+  "https://github.com/playportdev/playport/releases/download/v0.5.0/Playport-0.5.0.ipa": {
+    "name": "60103b083915-2620958cb60a-Playport-0.5.0.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/60103b083915-2620958cb60a-Playport-0.5.0.ipa",
+    "sha256": "2620958cb60a0b452351976ec5d43fd179d1a2ada9d1cc4adef5b7b89beca04a",
+    "size": 413322913
+  },
+  "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.2/PiliPlus_ios_2.2.0%2B5598.ipa": {
+    "name": "fee83d2e2d59-b60cf81f7189-PiliPlus_ios_2.2.0+5598.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/fee83d2e2d59-b60cf81f7189-PiliPlus_ios_2.2.0%2B5598.ipa",
+    "sha256": "b60cf81f7189787d912cba8f2a7d3dbadebcc415f16a50feee4fc7f8c9cd1471",
+    "size": 24933082
+  },
+  "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa": {
+    "name": "b22148d9af4b-1b526c3e751d-LiveContainer+SideStore.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/b22148d9af4b-1b526c3e751d-LiveContainer%2BSideStore.ipa",
+    "sha256": "1b526c3e751de6865fb27b2f3d30b0e4151d8e90426bd7ffdfc35c5feb43c6f3",
+    "size": 23752778
+  },
+  "https://github.com/Eslzzyl/Pixiv-SwiftUI/releases/download/v0.16.3/Pixiv-SwiftUI.ipa": {
+    "name": "4cd08c14f16b-8da30168148c-Pixiv-SwiftUI.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/4cd08c14f16b-8da30168148c-Pixiv-SwiftUI.ipa",
+    "sha256": "8da30168148c9a1e4a1a2eeb53329653f897ec92fe50ef6267845f05ad2907eb",
+    "size": 10379203
+  },
+  "https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.7/AnimeFlow-ios-2.6.7.ipa": {
+    "name": "0500a63660ad-375a7a4d5b6e-AnimeFlow-ios-2.6.7.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/0500a63660ad-375a7a4d5b6e-AnimeFlow-ios-2.6.7.ipa",
+    "sha256": "375a7a4d5b6e533bbfde69f20fec9148103dab0b46efe815aed89674f6d60848",
+    "size": 29378160
+  },
+  "https://github.com/akinal5765-byte/Silverphase/releases/download/v1.1.1/Silverphase-1.1.1-iOS-unsigned.ipa": {
+    "name": "cd7484da915d-e0d9937c90a8-Silverphase-1.1.1-iOS-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/cd7484da915d-e0d9937c90a8-Silverphase-1.1.1-iOS-unsigned.ipa",
+    "sha256": "e0d9937c90a80ed68ae02beb672ad8ab4e7a4fb95ab901c5f2a4ff5d5242bba0",
+    "size": 92284015
+  },
+  "https://github.com/LightNovelShelf/Flutter/releases/download/v1.13.2/app-ios-unsigned.ipa": {
+    "name": "d9936e52496d-b35b68e1e2af-app-ios-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/d9936e52496d-b35b68e1e2af-app-ios-unsigned.ipa",
+    "sha256": "b35b68e1e2af4fe686a7d68fc5d7aeaee3986c832fb5038c74baef2c4f5b1a35",
+    "size": 11957867
+  },
+  "https://github.com/donbytyqi/scenebox/releases/download/v1.0.4/SceneBox-1.0.4.ipa": {
+    "name": "5df429b57720-d8b57f581a94-SceneBox-1.0.4.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/5df429b57720-d8b57f581a94-SceneBox-1.0.4.ipa",
+    "sha256": "d8b57f581a9428815bf28c50b8cdbee82a584831b927963983797f29cad15a5e",
+    "size": 30593765
+  },
+  "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261113/ARMSX2-nightly-20261113-37ed35b88f-iOS-arm64.ipa": {
+    "name": "7546dfd9ad48-10ae36945d8c-ARMSX2-nightly-20261113-37ed35b88f-iOS-arm64.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/7546dfd9ad48-10ae36945d8c-ARMSX2-nightly-20261113-37ed35b88f-iOS-arm64.ipa",
+    "sha256": "10ae36945d8c76d806774bafcfde306c41e1c3f518df9461ea7e9bfe193a00d7",
+    "size": 40715589
+  },
+  "https://github.com/TarbleFR/RewindBox/releases/download/0.0.11/RewindBox-0.0.11.ipa": {
+    "name": "44f8423c79e7-bc640a83a01d-RewindBox-0.0.11.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/44f8423c79e7-bc640a83a01d-RewindBox-0.0.11.ipa",
+    "sha256": "bc640a83a01de8a623c16fb0b5977edf16ac6010b61c9c2489ae334d3db3c0d7",
+    "size": 267033667
+  },
+  "https://github.com/MchinaMd57764/WQToolkit/releases/download/v1.0/WQToolkit-unsigned.ipa": {
+    "name": "570efe66d795-ba0d271ee704-WQToolkit-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/570efe66d795-ba0d271ee704-WQToolkit-unsigned.ipa",
+    "sha256": "ba0d271ee7040037c797cc41337f3a80a5a59c3c5cefbd6674295f887801fdd5",
+    "size": 4819436
+  },
+  "https://github.com/swipt-automation/swipt/releases/download/nightly/Swipt.ipa": {
+    "name": "ce5819429833-1f9e398fb9bb-Swipt.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/ce5819429833-1f9e398fb9bb-Swipt.ipa",
+    "sha256": "1f9e398fb9bbb5914e9ad649ea837dd479ab73b96d96a836fc89fa634a4bc179",
+    "size": 48174029
+  },
+  "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.2.2/MoviePilot-1.2.2-unsigned.ipa": {
+    "name": "eec6297adbb8-df712c33f0f2-MoviePilot-1.2.2-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/eec6297adbb8-df712c33f0f2-MoviePilot-1.2.2-unsigned.ipa",
+    "sha256": "df712c33f0f2341995bb99ab574b4cd28d75d3cf463b8d779c2ae3741d3458f8",
+    "size": 4231532
+  },
+  "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.2/ManicEMU.v2.0.2.SideloadJIT.ipa": {
+    "name": "42940cd75741-fa3d1a272298-ManicEMU.v2.0.2.SideloadJIT.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/42940cd75741-fa3d1a272298-ManicEMU.v2.0.2.SideloadJIT.ipa",
+    "sha256": "fa3d1a272298b02de44eeec182ea5c2bb1f9800b65b3239a4f2ee1ea4f0d99a7",
+    "size": 293317769
+  },
+  "https://github.com/kolbicz/WQFiles/releases/download/v0.9.6/WQFiles.ipa": {
+    "name": "8abd7e7593ee-d15feaf0fb82-WQFiles.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/8abd7e7593ee-d15feaf0fb82-WQFiles.ipa",
+    "sha256": "d15feaf0fb82dd754b78de3a0e9d210db0cc1ebd83748dd1980e922d2183c2c6",
+    "size": 780279
+  },
+  "https://github.com/mrdrvt99/YouProEXTRA/releases/download/youproextra-ipa2/YouProExtra_21.45.4_1.3.1.ipa": {
+    "name": "f1452c332a97-fe73328b9d9f-YouProExtra_21.45.4_1.3.1.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/f1452c332a97-fe73328b9d9f-YouProExtra_21.45.4_1.3.1.ipa",
+    "sha256": "fe73328b9d9fa7ae5fa5db0f89e404bdaaa010f0a5a6c8b1ed181d4af05af89f",
+    "size": 133320959
+  },
+  "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/download/v1.15.11_4.0.1/Apollo-Reborn-4.0.1-GLASS.ipa": {
+    "name": "cc7d71bb872a-ab29739db552-Apollo-Reborn-4.0.1-GLASS.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/cc7d71bb872a-ab29739db552-Apollo-Reborn-4.0.1-GLASS.ipa",
+    "sha256": "ab29739db55255f53c17a11ea949f46515af681257062728545e1813929679e9",
+    "size": 129202414
+  },
+  "https://github.com/missuo/kumone/releases/download/v0.3.34/Kumone-iOS-0.3.34.ipa": {
+    "name": "82d9b5b52ab7-ac416d462e90-Kumone-iOS-0.3.34.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/82d9b5b52ab7-ac416d462e90-Kumone-iOS-0.3.34.ipa",
+    "sha256": "ac416d462e9073a7dea99f2e9c27b00a6d52a1be5d808f27135c28998ff2d1a0",
+    "size": 4270017
+  },
+  "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.4%2B1101/baka-5.2.4%2B1101-ios-unsigned.ipa": {
+    "name": "f18211d7b9c6-5fac01f0fecd-baka-5.2.4+1101-ios-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/f18211d7b9c6-5fac01f0fecd-baka-5.2.4%2B1101-ios-unsigned.ipa",
+    "sha256": "5fac01f0fecd326333cd40224cdb4f75913b2d95c139886bd629e6bd796e0d38",
+    "size": 23708307
+  },
+  "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa": {
+    "name": "7802eb314df5-a254306109b0-Opaline_1.12.0.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/7802eb314df5-a254306109b0-Opaline_1.12.0.ipa",
+    "sha256": "a254306109b09bcf4d3ba4de80592f7a89b3932e7484f41f570c4a81913141d1",
+    "size": 6685919
+  },
+  "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.4/DLiPA_v1.4.ipa": {
+    "name": "24b6e078cb6d-72012beabf55-DLiPA_v1.4.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/24b6e078cb6d-72012beabf55-DLiPA_v1.4.ipa",
+    "sha256": "72012beabf55a12d70c5ad3bbe95384e7fd450c8de1bf6fbc62f8844512eea0f",
+    "size": 534245
+  },
+  "https://github.com/thebcd69/bcd-games/releases/download/v0.1.653/BCD.ipa": {
+    "name": "e0ab44f70b1f-a19306da887f-BCD.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/e0ab44f70b1f-a19306da887f-BCD.ipa",
+    "sha256": "a19306da887f4849043e56c498fa61caa59a2c14e6bff66394433f8221dd362b",
+    "size": 194520705
+  },
+  "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-lite-unsigned.ipa": {
+    "name": "a26e6554731e-17a43e238b03-iPadn-2.1.0-lite-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/a26e6554731e-17a43e238b03-iPadn-2.1.0-lite-unsigned.ipa",
+    "sha256": "17a43e238b03f22910d8cda079c4be60f52523594feabadcf045315d08f7fb6f",
+    "size": 48684606
+  },
+  "https://github.com/xmiguel911x/PSX3IOS/releases/download/v0.2.7-beta/PSX3IOS-beta.0.2.7-unsigned.ipa": {
+    "name": "ea4018eed89e-86401e2332ff-PSX3IOS-beta.0.2.7-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/ea4018eed89e-86401e2332ff-PSX3IOS-beta.0.2.7-unsigned.ipa",
+    "sha256": "86401e2332ff0c139e3a07db834b18bdf48225d8df77af88640042211232a14f",
+    "size": 67644766
+  },
+  "https://github.com/altstoreio/AltStore/releases/download/v2.3/AltStore_Classic_Notarized_2_3.ipa": {
+    "name": "fdab405a42f4-3cffaf3045f3-AltStore_Classic_Notarized_2_3.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/fdab405a42f4-3cffaf3045f3-AltStore_Classic_Notarized_2_3.ipa",
+    "sha256": "3cffaf3045f34a6728f51f1462fa14de7555130a4342c62837604563bdabef34",
+    "size": 40616419
+  },
+  "https://github.com/CyrilPeng/Venera-Next/releases/download/v1.18.3/VeneraNext-ios-1.18.3%2B249.ipa": {
+    "name": "e0d71abee2bb-50a4bd7f2add-VeneraNext-ios-1.18.3+249.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/e0d71abee2bb-50a4bd7f2add-VeneraNext-ios-1.18.3%2B249.ipa",
+    "sha256": "50a4bd7f2adda3936f9e5e3d26922c98cb8122e5bcbe1c746fb9bb45b571e091",
+    "size": 21467556
+  },
+  "https://github.com/intraducine/iridium/releases/download/v0.2.0/Iridium-unsigned.ipa": {
+    "name": "455157aacc7c-1934922a1fcf-Iridium-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/455157aacc7c-1934922a1fcf-Iridium-unsigned.ipa",
+    "sha256": "1934922a1fcf1509e305a29d6f0d26579a4318ba95dfcf5b406d5e38f88c9763",
+    "size": 399916792
+  },
+  "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.7.0/MiniWatts-unsigned.ipa": {
+    "name": "0027b499ceb9-c8f1332e6f41-MiniWatts-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/0027b499ceb9-c8f1332e6f41-MiniWatts-unsigned.ipa",
+    "sha256": "c8f1332e6f41244be9309a465d17dadef571ffe88d6c650af8f04c2b485768f8",
+    "size": 3374224
+  },
+  "https://github.com/utmapp/UTM/releases/download/v5.0.8/UTM.ipa": {
+    "name": "b887ba8c5ccf-4875a1ec8692-UTM.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/b887ba8c5ccf-4875a1ec8692-UTM.ipa",
+    "sha256": "4875a1ec869278fb173b37467388ea627bfa6d95f1d64501bc41bb86dd7d53b2",
+    "size": 150556413
+  },
+  "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.6/iDeck-0.1.3-alpha.6-build145.ipa": {
+    "name": "ea47b8eebc16-caf3be231ec7-iDeck-0.1.3-alpha.6-build145.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/ea47b8eebc16-caf3be231ec7-iDeck-0.1.3-alpha.6-build145.ipa",
+    "sha256": "caf3be231ec7968ca337287d603d90b2674179a362715292d2ddb302d5cacb65",
+    "size": 173835258
+  },
+  "https://github.com/StikDebug/StikDebug/releases/download/3.2.2/StikDebug-3.2.2.ipa": {
+    "name": "8a0aa683e595-2f238d89ba82-StikDebug-3.2.2.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/8a0aa683e595-2f238d89ba82-StikDebug-3.2.2.ipa",
+    "sha256": "2f238d89ba828d41b7830e4b1bae44ee6fd04e50d3d8c0ffe15ad47bd66af170",
+    "size": 16924687
+  },
+  "https://github.com/moliango/doer/releases/download/v1.8.6/doer-unsigned.ipa": {
+    "name": "9ea7c2a200df-246c9de45c3a-doer-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/9ea7c2a200df-246c9de45c3a-doer-unsigned.ipa",
+    "sha256": "246c9de45c3a402e13c7528c31050981763afda5ae40cf552c8d7abfa10bdefa",
+    "size": 28095758
+  },
+  "https://github.com/dddevid/Musly/releases/download/v2.0.3/musly-ios.ipa": {
+    "name": "b5dfe04c0431-669c35e111c3-musly-ios.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/b5dfe04c0431-669c35e111c3-musly-ios.ipa",
+    "sha256": "669c35e111c30e6161bbc5eae192d6598f48d669397a06dfb1f6ea1af8bb1450",
+    "size": 14317899
+  },
+  "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa": {
+    "name": "9cc4efd15444-2f389e362704-EhPanda.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/9cc4efd15444-2f389e362704-EhPanda.ipa",
+    "sha256": "2f389e36270414a8d9f3537e330f5c2bbff80887109c56ff9b4ba68ed377d62b",
+    "size": 7352364
+  },
+  "https://github.com/Mac-XK/KMusic/releases/download/%E6%AD%8C%E4%B8%80%E5%88%802.3.0/_2.3.0_22.2.ipa": {
+    "name": "1c83d327daca-f53c2363cad8-_2.3.0_22.2.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/1c83d327daca-f53c2363cad8-_2.3.0_22.2.ipa",
+    "sha256": "f53c2363cad89ffe1b5cf64836daa6b39741bcf55ab7aadb0ed3f393ef83ad04",
+    "size": 3836900
+  },
+  "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa": {
+    "name": "b0184dfbe27b-28fbe31e673b-TiebaPure-v1.4.15-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/b0184dfbe27b-28fbe31e673b-TiebaPure-v1.4.15-unsigned.ipa",
+    "sha256": "28fbe31e673b1f2769043456324521afd87d04ade8d92d33832e967c19c31123",
+    "size": 9347637
+  },
+  "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9934/LSX4-JIT-128.9934.ipa": {
+    "name": "34ac2a7dd789-cde3e4e12289-LSX4-JIT-128.9934.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/34ac2a7dd789-cde3e4e12289-LSX4-JIT-128.9934.ipa",
+    "sha256": "cde3e4e12289d1518a5882260c9c6d4e60166fcdae44686834f65761fc6a66c5",
+    "size": 77017813
+  },
+  "https://github.com/Suwayomi/Suwayomi-Tsumiru/releases/download/v1.6.5/tsumiru-v1.6.5-ios.ipa": {
+    "name": "9706639b7378-695878a0aaaf-tsumiru-v1.6.5-ios.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/9706639b7378-695878a0aaaf-tsumiru-v1.6.5-ios.ipa",
+    "sha256": "695878a0aaafac50f253ac52aad117493b119071d7e2573fbaaef463a2f2ca85",
+    "size": 17346615
+  },
+  "https://github.com/LinkPass888/Kazumi-Swift/releases/download/3.0.5/Kazumi_ios_3.0.5_no_sign.ipa": {
+    "name": "9271e1325803-ae5cb56f5fa3-Kazumi_ios_3.0.5_no_sign.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/9271e1325803-ae5cb56f5fa3-Kazumi_ios_3.0.5_no_sign.ipa",
+    "sha256": "ae5cb56f5fa300cfaaaff63a1b30bd363b914e199b3850b7f3cafae23a86bb1e",
+    "size": 24130346
+  },
+  "https://github.com/Kianuni/WQGuard/releases/download/v1.2.1/WQGuard_v1.2.1.ipa": {
+    "name": "dcde7795155c-0406135484b7-WQGuard_v1.2.1.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/dcde7795155c-0406135484b7-WQGuard_v1.2.1.ipa",
+    "sha256": "0406135484b7cea31d5d980404b0a42018da1dcde0cde471b2a72245495a51f9",
+    "size": 2007635
+  },
+  "https://github.com/open-ani/animeko/releases/download/v6.4.0/ani-6.4.0.ipa": {
+    "name": "d944764a8ade-c5797e772fa6-ani-6.4.0.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/d944764a8ade-c5797e772fa6-ani-6.4.0.ipa",
+    "sha256": "c5797e772fa654b2a6723f3f61c8332465b760435e7ea5ee18da3448cb27ad8a",
+    "size": 48615547
+  },
+  "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa": {
+    "name": "f2c9313e4ec0-06565826bc22-DukeX.v1.0.2.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/f2c9313e4ec0-06565826bc22-DukeX.v1.0.2.ipa",
+    "sha256": "06565826bc2279e9201d6ffd883c9947e7df97c96a9421f9fba7748e6628d63b",
+    "size": 20345841
+  },
+  "https://github.com/singleton-altman/MoviePilotLite/releases/download/release-v1.3.3-2026-11-13/ios-v1.3.3-2026-11-13.ipa": {
+    "name": "58256f50ced9-44b5ad7871f9-ios-v1.3.3-2026-11-13.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/58256f50ced9-44b5ad7871f9-ios-v1.3.3-2026-11-13.ipa",
+    "sha256": "44b5ad7871f9dbe58309066097fd39ab14b9718041293b5d8eb53d4caca88f05",
+    "size": 37758540
+  },
+  "https://github.com/youshen2/MeloX/releases/download/v1.4.1/MeloX-iOS-unsigned.ipa": {
+    "name": "0584513e25ed-289af8ecbe32-MeloX-iOS-unsigned.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/0584513e25ed-289af8ecbe32-MeloX-iOS-unsigned.ipa",
+    "sha256": "289af8ecbe32b0c61261f92d96fcac63ac58563c916bd7eb2f48bac708090436",
+    "size": 30440912
+  },
+  "https://github.com/Leviidev/Fathom/releases/download/v1.0.0/Fathom.ipa": {
+    "name": "51434fc64122-5527909766a0-Fathom.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/51434fc64122-5527909766a0-Fathom.ipa",
+    "sha256": "5527909766a037d2a6c881244d5d68945ac75ac8b2e4aa57503cc11d7689f6d1",
+    "size": 1175175
+  },
+  "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa": {
+    "name": "ad0ece93ca72-3907f099d914-Husk.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/ad0ece93ca72-3907f099d914-Husk.ipa",
+    "sha256": "3907f099d91411c24d703d825276102d2ba213c628cd6701fb977c25fe398fab",
+    "size": 142303569
+  },
+  "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa": {
+    "name": "bdcb0bafcfe6-7cdab35d6029-Madeira-0.2.0.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/bdcb0bafcfe6-7cdab35d6029-Madeira-0.2.0.ipa",
+    "sha256": "7cdab35d6029b9a7701775ac794ac2674cac501ec6503465775e7a35ae046154",
+    "size": 186400561
+  },
+  "https://github.com/ishtiaq156/stats/releases/download/v0.3.14/Stats-v0.3.8-iOS.ipa": {
+    "name": "53cb6972cf6f-2b899f01c95b-Stats-v0.3.8-iOS.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/53cb6972cf6f-2b899f01c95b-Stats-v0.3.8-iOS.ipa",
+    "sha256": "2b899f01c95b100e8fdcfda1de1040cec3e3a33e2e1ea07b28fa2a94895fe0f7",
+    "size": 2666429
+  },
+  "https://github.com/huamidev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa": {
+    "name": "fefee713c1ce-0621b070cafa-GestaltX_1.1.1.ipa",
+    "url": "https://github.com/KUAILESHANGWEI/AltGallery/releases/download/archive-assets/fefee713c1ce-0621b070cafa-GestaltX_1.1.1.ipa",
+    "sha256": "0621b070cafacb2f1f83fad459697d02263e513b04d77b462da333c5b0a4e708",
+    "size": 6774794
+  }
+}

@@ -29,7 +29,7 @@ def localize():
     files = subprocess.check_output(['git', 'ls-files'], cwd=ROOT, text=True).splitlines()
     for name in files:
         path = ROOT / name
-        if name.startswith('.github/scripts/') or name == '.github/workflows/update.yml' or not path.is_file():
+        if name.startswith('.github/scripts/') or name in ('.github/workflows/update.yml', 'archive-manifest.json') or not path.is_file():
             continue
         try:
             original = path.read_text()
@@ -41,6 +41,7 @@ def localize():
         text = text.replace('bebound/altgallery', TARGET)
         text = text.replace('bebound%2Faltgallery', 'KUAILESHANGWEI%2FAltGallery')
         text = text.replace('bebound.github.io/AltGallery', 'KUAILESHANGWEI.github.io/AltGallery')
+        text = text.replace('altgallery.fromkk.com', 'KUAILESHANGWEI.github.io/AltGallery')
         if name.startswith('.github/workflows/'):
             text = re.sub(r'(?m)^(\s+- )master$', r'\1main', text)
         if text != original:
@@ -77,9 +78,21 @@ def archive():
 
     def save(url):
         old = manifest.get(url)
+        source_digest = None
+        match = re.match(r'https://github.com/([^/]+/[^/]+)/releases/download/([^/]+)/(.+)$', url)
+        if match:
+            repo, tag, filename = match.groups()
+            try:
+                upstream_release = api(f'repos/{repo}/releases/tags/{quote(unquote(tag), safe="")}')
+                source_asset = next(a for a in upstream_release['assets'] if a['name'] == unquote(filename))
+                source_digest = source_asset.get('digest')
+            except (subprocess.CalledProcessError, StopIteration):
+                if not old:
+                    raise RuntimeError('Source unavailable and no retained copy: ' + url)
+                source_digest = 'sha256:' + old['sha256']
         if old and old['name'] in existing:
             remote = existing[old['name']]
-            if remote['size'] == old['size'] and remote.get('digest') == 'sha256:' + old['sha256']:
+            if remote['size'] == old['size'] and remote.get('digest') == 'sha256:' + old['sha256'] and source_digest == 'sha256:' + old['sha256']:
                 return url, old
         with tempfile.TemporaryDirectory(prefix='altgallery-') as folder:
             path = Path(folder) / 'download'
@@ -89,6 +102,8 @@ def archive():
                 for chunk in iter(lambda: stream.read(1024 * 1024), b''):
                     checksum.update(chunk)
             digest = checksum.hexdigest()
+            if source_digest and source_digest != 'sha256:' + digest:
+                raise RuntimeError('Source asset SHA-256 mismatch: ' + url)
             basename = re.sub(r'[^A-Za-z0-9._+-]', '_', unquote(url.rsplit('/', 1)[-1]))
             name = hashlib.sha256(url.encode()).hexdigest()[:12] + '-' + digest[:12] + '-' + basename
             asset = Path(folder) / name
@@ -120,6 +135,26 @@ def archive():
         asset = remote[entry['name']]
         if asset['size'] != entry['size'] or asset.get('digest') != 'sha256:' + entry['sha256']:
             raise SystemExit('Remote checksum mismatch: ' + entry['name'])
+    for upstream_release in upstream_releases:
+        tag = upstream_release['tag_name']
+        release(tag)
+        retained = {a['name']: a for a in api(f'repos/{TARGET}/releases/tags/{quote(tag, safe="")}')['assets']}
+        for source_asset in upstream_release['assets']:
+            entry = manifest[source_asset['browser_download_url']]
+            name = source_asset['name']
+            old = retained.get(name)
+            if old and old.get('digest') == 'sha256:' + entry['sha256']:
+                continue
+            if old:
+                name = entry['sha256'][:12] + '-' + name
+            if name in retained:
+                continue
+            with tempfile.TemporaryDirectory(prefix='altgallery-release-') as folder:
+                run('gh', 'release', 'download', 'archive-assets', '-R', TARGET, '--pattern', entry['name'], '--dir', folder)
+                asset = Path(folder) / entry['name']
+                destination = Path(folder) / name
+                asset.rename(destination)
+                run('gh', 'release', 'upload', tag, str(destination), '-R', TARGET)
     for path, data in catalogs.items():
         for app in data['apps']:
             for version in app.get('versions', []):

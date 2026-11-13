@@ -19,9 +19,6 @@ name: Build and deploy Cloudflare Pages
 #      Cloudflare Pages: Edit permission) and CLOUDFLARE_ACCOUNT_ID.
 
 on:
-  workflow_run:
-    workflows: ["Update apps.json and all-apps.json"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -34,7 +31,7 @@ concurrency:
 
 env:
   CLOUDFLARE_PROJECT_NAME: altgallery
-  CLOUDFLARE_PRODUCTION_BRANCH: master
+  CLOUDFLARE_PRODUCTION_BRANCH: main
 
 jobs:
   deploy:

@@ -1,3 +1,13 @@
+## 独立归档版
+
+[一键添加全部应用源](https://altdirect.app/?url=https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/all-apps.json) · [浏览应用目录](https://KUAILESHANGWEI.github.io/AltGallery/) · [下载目录包](https://github.com/KUAILESHANGWEI/AltGallery/releases/latest) · [IPA 归档](https://github.com/KUAILESHANGWEI/AltGallery/releases/tag/archive-assets)
+
+本仓库已按用户选择公开。源、图片和 IPA 均使用自有仓库地址。IPA 需要使用 AltStore、SideStore 等工具签名安装，应用系统版本和签名要求以各项目说明为准。尚未逐个进行真机安装测试。
+
+每 6 小时合并上游 `master`，保留本地提交，重新生成源并归档 IPA。归档文件使用 SHA-256 校验，已有附件持续保留，同名内容变化时使用带摘要的文件名另存。上游不可用时沿用已归档目录。合并冲突会停止同步，保留已有提交供修复重跑。
+
+目录包解压后可打开 `preview.html`，内含图片、源 JSON 与校验清单。IPA 单独保存在归档 Release。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/assets/icon.png" alt="AltGallery" width="120">
 </p>
@@ -8,7 +18,7 @@
 
 <p>精选 AltStore 软件源：汇聚 GitHub 优质 IPA 开源项目。所有源均由 <a href="https://github.com/bebound/AltGen">AltGen</a> 生成。可用于 <a href="https://github.com/altstoreio/Altstore">AltStore</a>、<a href="https://github.com/SideStore/SideStore">SideStore</a>、<a href="https://github.com/LiveContainer/LiveContainer">LiveContainer</a>、<a href="https://github.com/claration/Feather">Feather</a> 或其他兼容应用。</p>
 
-<p >在浏览器中浏览AltGallery：<a href="https://github.com/KUAILESHANGWEI/AltGallery/releases/latest">altgallery.fromkk.com</a></p>
+<p >在浏览器中浏览AltGallery：<a href="https://KUAILESHANGWEI.github.io/AltGallery/">KUAILESHANGWEI.github.io/AltGallery</a></p>
 
 <p align="center">
 <a href="https://altdirect.app/?url=https://raw.githubusercontent.com/KUAILESHANGWEI/AltGallery/refs/heads/main/all-apps.json" target="_blank">
